@@ -1,0 +1,3411 @@
+[
+    {
+      "address": "446 Pasir Ris Drive 6|#01-112",
+      "landmark": "Pasir Ris Drive 6 - 7-Eleven",
+      "latitude": 1.3703155,
+      "longitude": 103.9577018,
+      "postalCode": "Singapore 510446"
+    },
+    {
+      "address": "8 Raffles Avenue|#01-K1",
+      "landmark": "Esplanade Mall",
+      "latitude": 1.289509,
+      "longitude": 103.855511,
+      "postalCode": "Singapore 39802"
+    },
+    {
+      "address": "5 Raffles Place",
+      "landmark": "Raffles Place MRT Station",
+      "latitude": 1.2846098,
+      "longitude": 103.851497,
+      "postalCode": "Singapore 048618"
+    },
+    {
+      "address": "30 Raffles Place|Level 1",
+      "landmark": "Chevron House",
+      "latitude": 1.2845327,
+      "longitude": 103.8519373,
+      "postalCode": "Singapore 048622"
+    },
+    {
+      "address": "1 Tanjong Pagar Road|#01-32 Tanjong Pagar Plaza",
+      "landmark": "Tanjong Pagar Plaza - 7-Eleven",
+      "latitude": 1.2748423,
+      "longitude": 103.842705,
+      "postalCode": "Singapore 082001"
+    },
+    {
+      "address": "10 Kent Ridge Road|Arts and Social Science Faculty",
+      "landmark": "National University of Singapore",
+      "latitude": 1.2942717,
+      "longitude": 103.7784984,
+      "postalCode": "Singapore 119219"
+    },
+    {
+      "address": "109 Clementi Street 11|#01-15",
+      "landmark": "Clementi Street 11 - 7-Eleven",
+      "latitude": 1.3219051,
+      "longitude": 103.7705753,
+      "postalCode": "Singapore 120109"
+    },
+    {
+      "address": "325 Clementi Avenue 5|#01-137",
+      "landmark": "Clementi Avenue 5",
+      "latitude": 1.3151205,
+      "longitude": 103.7667911,
+      "postalCode": "Singapore 120325"
+    },
+    {
+      "address": "505 West Coast Drive|#01-216",
+      "landmark": "West Coast Drive - 7-Eleven",
+      "latitude": 1.3122956,
+      "longitude": 103.7599652,
+      "postalCode": "Singapore 120505"
+    },
+    {
+      "address": "727 Clementi West Street 2|#01-284",
+      "landmark": "Clementi West Street 2 - 7-Eleven",
+      "latitude": 1.304572,
+      "longitude": 103.764032,
+      "postalCode": "Singapore 120727"
+    },
+    {
+      "address": "100 North Buona Vista Road|Concourse Area",
+      "landmark": "Buona Vista MRT Station",
+      "latitude": 1.307517037,
+      "longitude": 103.7900198,
+      "postalCode": "Singapore 139345"
+    },
+    {
+      "address": "500 Dover Road|Teaching Block 1A",
+      "landmark": "Singapore Polytechnic",
+      "latitude": 1.3106679,
+      "longitude": 103.7774191,
+      "postalCode": "Singapore 139651"
+    },
+    {
+      "address": "375 Commonwealth Avenue|Concourse Area",
+      "landmark": "Commonwealth MRT Station",
+      "latitude": 1.3024647,
+      "longitude": 103.7982725,
+      "postalCode": "Singapore 149735"
+    },
+    {
+      "address": "58 Seng Poh Road|#01-19",
+      "landmark": "Seng Poh Road - 7-Eleven",
+      "latitude": 1.2846334,
+      "longitude": 103.8329977,
+      "postalCode": "Singapore 160058"
+    },
+    {
+      "address": "300 Tiong Bahru Road|Basement 1",
+      "landmark": "Tiong Bahru MRT Station",
+      "latitude": 1.286204301,
+      "longitude": 103.826986,
+      "postalCode": "Singapore 168731"
+    },
+    {
+      "address": "1 Hospital Drive |Block 5 Level 1",
+      "landmark": "Singapore General Hospital",
+      "latitude": 1.2797259,
+      "longitude": 103.8347894,
+      "postalCode": "Singapore 169608"
+    },
+    {
+      "address": "111 North Bridge Road|#B1-07 A/B/C",
+      "landmark": "Peninsula Plaza",
+      "latitude": 1.292054,
+      "longitude": 103.850739,
+      "postalCode": "Singapore 179098"
+    },
+    {
+      "address": "150 North Bridge Road|Concourse Area",
+      "landmark": "City Hall MRT Station",
+      "latitude": 1.2932192,
+      "longitude": 103.852181,
+      "postalCode": "Singapore 179100"
+    },
+    {
+      "address": "252 North Bridge Road|#B1-43B",
+      "landmark": "Raffles City Shopping Centre",
+      "latitude": 1.2938189,
+      "longitude": 103.8527795,
+      "postalCode": "Singapore 179103"
+    },
+    {
+      "address": "1 Rochor Road|#01-640",
+      "landmark": "Rochor Centre - FairPrice",
+      "latitude": 1.3020728,
+      "longitude": 103.8550447,
+      "postalCode": "Singapore 180001"
+    },
+    {
+      "address": "230 Victoria Street",
+      "landmark": "Parco Bugis Junction",
+      "latitude": 1.299016,
+      "longitude": 103.855316,
+      "postalCode": "Singapore 188024"
+    },
+    {
+      "address": "320 Victoria Street|Concourse Area",
+      "landmark": "Bugis MRT Station",
+      "latitude": 1.3007165,
+      "longitude": 103.856286,
+      "postalCode": "Singapore 188045"
+    },
+    {
+      "address": "35 Selegie Road|Ground Floor",
+      "landmark": "Parklane Shopping Mall",
+      "latitude": 1.3006635,
+      "longitude": 103.8494314,
+      "postalCode": "Singapore 188307"
+    },
+    {
+      "address": "190 Middle Road|Ground Floor",
+      "landmark": "Fortune Centre",
+      "latitude": 1.3004031,
+      "longitude": 103.8523016,
+      "postalCode": "Singapore 188979"
+    },
+    {
+      "address": "50 Kallang Road|#B1-02",
+      "landmark": "Lavender MRT Station",
+      "latitude": 1.3070431,
+      "longitude": 103.8629757,
+      "postalCode": "Singapore 208699"
+    },
+    {
+      "address": "1 Jalan Berseh|#01-06",
+      "landmark": "New World Centre",
+      "latitude": 1.307523,
+      "longitude": 103.8574838,
+      "postalCode": "Singapore 209037"
+    },
+    {
+      "address": "48 Serangoon Road|#01-19/20 Little India Arcade",
+      "landmark": "Little India Arcade - 7-Eleven",
+      "latitude": 1.3055403,
+      "longitude": 103.8517796,
+      "postalCode": "Singapore 217959"
+    },
+    {
+      "address": "14 Scotts Road|Basement 1",
+      "landmark": "Far East Plaza",
+      "latitude": 1.3071753,
+      "longitude": 103.8338138,
+      "postalCode": "Singapore 228213"
+    },
+    {
+      "address": "49 Scotts Road|Concourse Area",
+      "landmark": "Newton MRT Station",
+      "latitude": 1.3124816,
+      "longitude": 103.8379255,
+      "postalCode": "Singapore 228234"
+    },
+    {
+      "address": "100 Bukit Timah Road|Level 1 Children Tower",
+      "landmark": "KK Women's And Children's Hospital",
+      "latitude": 1.31072,
+      "longitude": 103.84626,
+      "postalCode": "Singapore 229899"
+    },
+    {
+      "address": "11 Orchard Road|Basement 1 Dhoby Xchange",
+      "landmark": "Dhoby Ghaut MRT Station",
+      "latitude": 1.298593,
+      "longitude": 103.845909,
+      "postalCode": "Singapore 238826"
+    },
+    {
+      "address": "304 Orchard Road|Level 1",
+      "landmark": "Lucky Plaza",
+      "latitude": 1.3044985,
+      "longitude": 103.8340062,
+      "postalCode": "Singapore 238863"
+    },
+    {
+      "address": "435 Orchard Road|#B1-K4",
+      "landmark": "Wisma Atria",
+      "latitude": 1.303691,
+      "longitude": 103.833302,
+      "postalCode": "Singapore 238877"
+    },
+    {
+      "address": "423 River Valley Road",
+      "landmark": "River Valley Road - 7-Eleven",
+      "latitude": 1.2952577,
+      "longitude": 103.8294189,
+      "postalCode": "Singapore 248322"
+    },
+    {
+      "address": "6 Sixth Avenue",
+      "landmark": "Sixth Avenue - 7-Eleven",
+      "latitude": 1.3311013,
+      "longitude": 103.7951161,
+      "postalCode": "Singapore 276472"
+    },
+    {
+      "address": "4 Lorong Mambong",
+      "landmark": "Lorong Mombong - 7-Eleven",
+      "latitude": 1.3110301,
+      "longitude": 103.7953136,
+      "postalCode": "Singapore 277672"
+    },
+    {
+      "address": "111 Lorong 1 Toa Payoh|#01-358",
+      "landmark": "Toa Payoh Lorong 1 - 7-Eleven",
+      "latitude": 1.341285,
+      "longitude": 103.8454687,
+      "postalCode": "Singapore 310111"
+    },
+    {
+      "address": "190 Lorong 6 Toa Payoh|#01-564",
+      "landmark": "Toa Payoh Lorong 6 - 7-Eleven",
+      "latitude": 1.3329952,
+      "longitude": 103.8483248,
+      "postalCode": "Singapore 310190"
+    },
+    {
+      "address": "101 Towner Road|#01-234",
+      "landmark": "Towner Road - 7-Eleven",
+      "latitude": 1.318792,
+      "longitude": 103.86068,
+      "postalCode": "Singapore 322101"
+    },
+    {
+      "address": "999 Serangoon Road",
+      "landmark": "Serangoon Road - 7-Eleven",
+      "latitude": 1.322572,
+      "longitude": 103.8636331,
+      "postalCode": "Singapore 328157"
+    },
+    {
+      "address": "391 Orchard Road|Near #B1-36 (facing Beanstro)",
+      "landmark": "Ngee Ann City",
+      "latitude": 1.30272,
+      "longitude": 103.83464,
+      "postalCode": "Singapore  238872"
+    },
+    {
+      "address": "136 Potong Pasir Avenue 3|#01-166",
+      "landmark": "Potong Pasir Avenue 3 - 7-Eleven",
+      "latitude": 1.3341368,
+      "longitude": 103.866617,
+      "postalCode": "Singapore 350136"
+    },
+    {
+      "address": "385 Upper Aljunied Road",
+      "landmark": "Upper Aljunied Road - Prime Supermarket",
+      "latitude": 1.333221866,
+      "longitude": 103.8789457,
+      "postalCode": "Singapore 367870"
+    },
+    {
+      "address": "36 Circuit Road|#01-422",
+      "landmark": "Circuit Road - 7-Eleven",
+      "latitude": 1.3290356,
+      "longitude": 103.8869256,
+      "postalCode": "Singapore 370036"
+    },
+    {
+      "address": "18 Upper Boon Keng Road|#01-1153",
+      "landmark": "Upper Boon Keng Road",
+      "latitude": 1.314744,
+      "longitude": 103.872134,
+      "postalCode": "Singapore 380018"
+    },
+    {
+      "address": "53 Sims Place|#01-174",
+      "landmark": "Sims Place",
+      "latitude": 1.3178496,
+      "longitude": 103.88007,
+      "postalCode": "Singapore 380053"
+    },
+    {
+      "address": "81 Lorong 25 Geylang|Concourse Area",
+      "landmark": "Aljunied MRT Station",
+      "latitude": 1.3164614,
+      "longitude": 103.882927,
+      "postalCode": "Singapore 388310"
+    },
+    {
+      "address": "348 Geylang Road",
+      "landmark": "Geylang Road - 7-Eleven",
+      "latitude": 1.312636,
+      "longitude": 103.8807794,
+      "postalCode": "Singapore 389369"
+    },
+    {
+      "address": "306 Ubi Avenue 1|#01-185",
+      "landmark": "Ubi Avenue 1 - Giant",
+      "latitude": 1.3298933,
+      "longitude": 103.9019015,
+      "postalCode": "Singapore 400306"
+    },
+    {
+      "address": "1A Eunos Crescent|#01-2469/71",
+      "landmark": "Eunos Crescent - 7-Eleven",
+      "latitude": 1.3212986,
+      "longitude": 103.9027302,
+      "postalCode": "Singapore 401001"
+    },
+    {
+      "address": "810 Geylang Road|#01-00",
+      "landmark": "City Plaza",
+      "latitude": 1.3147961,
+      "longitude": 103.8933933,
+      "postalCode": "Singapore 409286"
+    },
+    {
+      "address": "409 Eunos Road 2",
+      "landmark": "Eunos Bus Interchange",
+      "latitude": 1.3193121,
+      "longitude": 103.901867,
+      "postalCode": "Singapore 409388"
+    },
+    {
+      "address": "55 Sims Avenue",
+      "landmark": "Kembangan MRT Station",
+      "latitude": 1.3210271,
+      "longitude": 103.9129176,
+      "postalCode": "Singapore 416551"
+    },
+    {
+      "address": "38A Changi Road",
+      "landmark": "Changi Road - 7-Eleven",
+      "latitude": 1.3162468,
+      "longitude": 103.8988,
+      "postalCode": "Singapore 419701"
+    },
+    {
+      "address": "55 East Coast Road",
+      "landmark": "East Coast Road - 7-Eleven",
+      "latitude": 1.305166,
+      "longitude": 103.9033066,
+      "postalCode": "Singapore 428772"
+    },
+    {
+      "address": "366 Tanjong Katong Road",
+      "landmark": "Tanjong Katong Road - 7-Eleven",
+      "latitude": 1.303039,
+      "longitude": 103.896729,
+      "postalCode": "Singapore 437124"
+    },
+    {
+      "address": "83 Marine Parade Central",
+      "landmark": "Marine Parade Central",
+      "latitude": 1.3028954,
+      "longitude": 103.9059678,
+      "postalCode": "Singapore 440083"
+    },
+    {
+      "address": "80 Marine Parade Road|Level 3 (Opposite Giant)",
+      "landmark": "Parkway Parade",
+      "latitude": 1.3018914,
+      "longitude": 103.9051646,
+      "postalCode": "Singapore 449269"
+    },
+    {
+      "address": "705 East Coast Road",
+      "landmark": "East Coast Road - 7-Eleven",
+      "latitude": 1.3121219,
+      "longitude": 103.9222977,
+      "postalCode": "Singapore 459062"
+    },
+    {
+      "address": "539A Bedok North Street 3|#01-477",
+      "landmark": "Bedok North ",
+      "latitude": 1.3323858,
+      "longitude": 103.925472,
+      "postalCode": "Singapore 461539"
+    },
+    {
+      "address": "25A Chai Chee Road|#01-459",
+      "landmark": "Chai Chee Road - Prime Supermarket",
+      "latitude": 1.3232816,
+      "longitude": 103.9241119,
+      "postalCode": "Singapore 461025"
+    },
+    {
+      "address": "59 New Upper Changi Road|#01-1240",
+      "landmark": "New Upper Changi Road",
+      "latitude": 1.3238012,
+      "longitude": 103.9405712,
+      "postalCode": "Singapore 461059"
+    },
+    {
+      "address": "346 Bedok Road|#01-00|Bedok Shopping Complex",
+      "landmark": "Bedok Road - 7-Eleven",
+      "latitude": 1.3315521,
+      "longitude": 103.9477843,
+      "postalCode": "Singapore 469532"
+    },
+    {
+      "address": "631 Bedok Reservoir Road|#01-934",
+      "landmark": "Bedok Reservoir Road - 7-Eleven",
+      "latitude": 1.3336685,
+      "longitude": 103.9145744,
+      "postalCode": "Singapore 470631"
+    },
+    {
+      "address": "632 Bedok Reservoir Road|#01-850",
+      "landmark": "Bedok Reservoir Road - McDonalds",
+      "latitude": 1.332051,
+      "longitude": 103.9141603,
+      "postalCode": "Singapore 470632"
+    },
+    {
+      "address": "50 Tanah Merah Ferry Road|Departure Hall",
+      "landmark": "Tanah Merah Ferry Terminal",
+      "latitude": 1.313797,
+      "longitude": 103.988777,
+      "postalCode": "Singapore 498833"
+    },
+    {
+      "address": "1 Changi Village Road|#01-2014",
+      "landmark": "Changi Village Road - 7-Eleven",
+      "latitude": 1.388733,
+      "longitude": 103.987618,
+      "postalCode": "Singapore 500001"
+    },
+    {
+      "address": "440 Pasir Ris Drive 4|#01-01",
+      "landmark": "Pasir Ris Drive 4 - Giant",
+      "latitude": 1.3690223,
+      "longitude": 103.9586511,
+      "postalCode": "Singapore 510440"
+    },
+    {
+      "address": "625 Elias Road|#01-K5",
+      "landmark": "Elias Mall",
+      "latitude": 1.378285,
+      "longitude": 103.941967,
+      "postalCode": "Singapore 510625"
+    },
+    {
+      "address": "Blk 734 Pasir Ris Street 72 |#01-37|",
+      "landmark": "Pasir Ris West Plaza - FairPrice",
+      "latitude": 1.379753194,
+      "longitude": 103.9363825,
+      "postalCode": "Singapore 510734"
+    },
+    {
+      "address": "Blk 735 Pasir Ris Street 72 |#01-K3",
+      "landmark": "Pasir Ris West Plaza",
+      "latitude": 1.379396563,
+      "longitude": 103.9365569,
+      "postalCode": "Singapore 510735"
+    },
+    {
+      "address": "10 Pasir Ris Central",
+      "landmark": "Pasir Ris Bus Interchange",
+      "latitude": 1.3736144,
+      "longitude": 103.9497333,
+      "postalCode": "Singapore 519634"
+    },
+    {
+      "address": "248 Simei Street 3|#01-130",
+      "landmark": "Simei Street 3",
+      "latitude": 1.3435446,
+      "longitude": 103.953572,
+      "postalCode": "Singapore 520248"
+    },
+    {
+      "address": "512 Tampines Central 1",
+      "landmark": "Tampines Bus Interchange",
+      "latitude": 1.354294,
+      "longitude": 103.9434388,
+      "postalCode": "Singapore 520512"
+    },
+    {
+      "address": "823 Tampines Street 81|#01-160",
+      "landmark": "Tampines Street 81 - Prime Supermarket",
+      "latitude": 1.3485502,
+      "longitude": 103.9339664,
+      "postalCode": "Singapore 520823"
+    },
+    {
+      "address": "139 Tampines Street 11|#01-20",
+      "landmark": "Tampines Street 11 - 7-Eleven",
+      "latitude": 1.3469147,
+      "longitude": 103.944472,
+      "postalCode": "Singapore 521139"
+    },
+    {
+      "address": "201B Tampines Street 21|#01-1091",
+      "landmark": "Tampines Street 21",
+      "latitude": 1.3533625,
+      "longitude": 103.9530867,
+      "postalCode": "Singapore 522201"
+    },
+    {
+      "address": "201A Tampines Street 21|#01-1059",
+      "landmark": "Tampines Street 21",
+      "latitude": 1.35341,
+      "longitude": 103.9527,
+      "postalCode": "Singapore 521201"
+    },
+    {
+      "address": "20 Tampines Central 1|Concourse Area",
+      "landmark": "Tampines MRT Station",
+      "latitude": 1.3532358,
+      "longitude": 103.9451786,
+      "postalCode": "Singapore 529538"
+    },
+    {
+      "address": "21 Hougang St 51",
+      "landmark": "Hougang Green Shopping Mall",
+      "latitude": 1.3792441,
+      "longitude": 103.8877937,
+      "postalCode": "Singapore 538719"
+    },
+    {
+      "address": "118 Rivervale Drive",
+      "landmark": "Rivervale Plaza",
+      "latitude": 1.3853753,
+      "longitude": 103.9018221,
+      "postalCode": "Singapore 540118"
+    },
+    {
+      "address": "11 Rivervale Crescent|#01-K2",
+      "landmark": "Rivervale Mall",
+      "latitude": 1.392153,
+      "longitude": 103.904447,
+      "postalCode": "Singapore 545082"
+    },
+    {
+      "address": "326 Serangoon Avenue 3|#01-378",
+      "landmark": "Serangoon Avenue 3 - 7-Eleven",
+      "latitude": 1.3503729,
+      "longitude": 103.8689811,
+      "postalCode": "Singapore 550326"
+    },
+    {
+      "address": "3 Kensington Park",
+      "landmark": "Kensington Park - 7-Eleven",
+      "latitude": 1.36462,
+      "longitude": 103.86606,
+      "postalCode": "Singapore 557255"
+    },
+    {
+      "address": "202 Ang Mo Kio Avenue 3|#01-1668",
+      "landmark": "Ang Mo Kio Avenue 3",
+      "latitude": 1.3684773,
+      "longitude": 103.8445304,
+      "postalCode": "Singapore 560202"
+    },
+    {
+      "address": "339 Ang Mo Kio Avenue 1|#01-1579",
+      "landmark": "Ang Mo Kio Avenue 1 - 7-Eleven",
+      "latitude": 1.3652101,
+      "longitude": 103.8490956,
+      "postalCode": "Singapore 560339"
+    },
+    {
+      "address": "407 Ang Mo Kio Avenue 10|#01-741",
+      "landmark": "Ang Mo Kio Avenue 10 - Cheers",
+      "latitude": 1.362097,
+      "longitude": 103.8554722,
+      "postalCode": "Singapore 560407"
+    },
+    {
+      "address": "532 Ang Mo Kio Avenue 10|#01-2455",
+      "landmark": "Ang Mo Kio Avenue 10 - 7-Eleven",
+      "latitude": 1.3738656,
+      "longitude": 103.854532,
+      "postalCode": "Singapore 560532"
+    },
+    {
+      "address": "2450 Ang Mo Kio Avenue 8",
+      "landmark": "Ang Mo Kio MRT Station",
+      "latitude": 1.370061,
+      "longitude": 103.849562,
+      "postalCode": "Singapore 569811"
+    },
+    {
+      "address": "180 Ang Mo Kio Avenue 8|Blk A Level 1  Food Central",
+      "landmark": "Ang Mo Kio Avenue 8 - Nanyang Polytechnic",
+      "latitude": 1.3809437,
+      "longitude": 103.8491063,
+      "postalCode": "Singapore 569830"
+    },
+    {
+      "address": "151 Bishan Street 11|#01-187",
+      "landmark": "Bishan Street 11 ",
+      "latitude": 1.345283,
+      "longitude": 103.855659,
+      "postalCode": "Singapore 570151"
+    },
+    {
+      "address": "244H Upper Thomson Road",
+      "landmark": "Upper Thomson Road - 7-Eleven",
+      "latitude": 1.353963,
+      "longitude": 103.8342402,
+      "postalCode": "Singapore 574369"
+    },
+    {
+      "address": "535 Clementi Road|Block 68|(Basement of Convention Centre)",
+      "landmark": "Clementi Road - Ngee Ann Polytechnic",
+      "latitude": 1.3323982,
+      "longitude": 103.7754072,
+      "postalCode": "Singapore 599489"
+    },
+    {
+      "address": "252 Jurong East Street 24|#01-129",
+      "landmark": "Jurong East Street 24 - 7-Eleven",
+      "latitude": 1.3430609,
+      "longitude": 103.7381428,
+      "postalCode": "Singapore 600252"
+    },
+    {
+      "address": "2 Jurong East Street 21",
+      "landmark": "IMM Building",
+      "latitude": 1.334897,
+      "longitude": 103.7468874,
+      "postalCode": "Singapore 609601"
+    },
+    {
+      "address": "399 Yung Sheng Road",
+      "landmark": "Taman Jurong Shopping Centre",
+      "latitude": 1.334532,
+      "longitude": 103.720408,
+      "postalCode": "Singapore 610399"
+    },
+    {
+      "address": "221 Boon Lay Place",
+      "landmark": "Boon Lay Shopping Centre",
+      "latitude": 1.346267,
+      "longitude": 103.712001,
+      "postalCode": "Singapore 640221"
+    },
+    {
+      "address": "463 Jurong West Street 41|#01-00",
+      "landmark": "Jurong West Street 41",
+      "latitude": 1.35056,
+      "longitude": 103.7232934,
+      "postalCode": "Singapore 640463"
+    },
+    {
+      "address": "501 Jurong West Street 51|#01-225",
+      "landmark": "Jurong West Street 51 - 7-Eleven",
+      "latitude": 1.3500426,
+      "longitude": 103.719169,
+      "postalCode": "Singapore 640501"
+    },
+    {
+      "address": "763 Jurong West Street 75|#01-01",
+      "landmark": "Jurong West Street 75 - Prime Supermarket",
+      "latitude": 1.3487761,
+      "longitude": 103.6982745,
+      "postalCode": "Singapore 640763"
+    },
+    {
+      "address": "964 Jurong West Street 91 |#01-342",
+      "landmark": "Jurong West Street 91",
+      "latitude": 1.342140462,
+      "longitude": 103.692677,
+      "postalCode": "Singapore 640964"
+    },
+    {
+      "address": "201 Boon Lay Way|Concourse Area",
+      "landmark": "Lakeside MRT Station",
+      "latitude": 1.3442374,
+      "longitude": 103.7207253,
+      "postalCode": "Singapore 649845"
+    },
+    {
+      "address": "301 Boon Lay Way|Concourse Area",
+      "landmark": "Boon Lay MRT Station",
+      "latitude": 1.33890124,
+      "longitude": 103.7055489,
+      "postalCode": "Singapore 649846"
+    },
+    {
+      "address": "132 Bukit Batok West Avenue 6|#01-304",
+      "landmark": "Bukit Batok West Avenue 6 - 7-Eleven",
+      "latitude": 1.350405,
+      "longitude": 103.74573,
+      "postalCode": "Singapore 650132"
+    },
+    {
+      "address": "283 Bukit Batok East Avenue 3|#01-281",
+      "landmark": "Bukit Batok East Avenue 3",
+      "latitude": 1.3473108,
+      "longitude": 103.7574129,
+      "postalCode": "Singapore 650283"
+    },
+    {
+      "address": "634 Bukit Batok Central",
+      "landmark": "Bukit Batok Central ",
+      "latitude": 1.3497297,
+      "longitude": 103.7515247,
+      "postalCode": "Singapore 650634"
+    },
+    {
+      "address": "10 Bukit Batok Central",
+      "landmark": "Bukit Batok MRT Station",
+      "latitude": 1.349073,
+      "longitude": 103.749664,
+      "postalCode": "Singapore 659958"
+    },
+    {
+      "address": "445 Fajar Road|#01-K1",
+      "landmark": "Fajar Shopping Centre",
+      "latitude": 1.383662,
+      "longitude": 103.770611,
+      "postalCode": "Singapore 670445"
+    },
+    {
+      "address": "259 Bukit Panjang Ring Road|#01-20",
+      "landmark": "Bukit Panjang Ring Road - 7-Eleven",
+      "latitude": 1.3773182,
+      "longitude": 103.7729185,
+      "postalCode": "Singapore 671259"
+    },
+    {
+      "address": "1 Jelebu Road|Level 1",
+      "landmark": "Bukit Panjang Plaza",
+      "latitude": 1.3799457,
+      "longitude": 103.7643197,
+      "postalCode": "Singapore 677743"
+    },
+    {
+      "address": "10 Choa Chu Kang Avenue 4|#01-K2",
+      "landmark": "Choa Chu Kang MRT Station",
+      "latitude": 1.385455,
+      "longitude": 103.7442846,
+      "postalCode": "Singapore 689810"
+    },
+    {
+      "address": "548 Woodlands Drive 44",
+      "landmark": "Vista Point",
+      "latitude": 1.4304047,
+      "longitude": 103.7939184,
+      "postalCode": "Singapore  730548"
+    },
+    {
+      "address": "883 Woodlands Street 82|#01-K1",
+      "landmark": "Woodlands North Plaza",
+      "latitude": 1.4425777,
+      "longitude": 103.7908042,
+      "postalCode": "Singapore 730883"
+    },
+    {
+      "address": "102 Yishun Avenue 5|#01-137",
+      "landmark": "Yishun Avenue 5 - 7-Eleven",
+      "latitude": 1.4306981,
+      "longitude": 103.8288206,
+      "postalCode": "Singapore 760102"
+    },
+    {
+      "address": "291 Yishun Street 22|#01-337",
+      "landmark": "Yishun Street 22 - 7-Eleven",
+      "latitude": 1.4357879,
+      "longitude": 103.8366962,
+      "postalCode": "Singapore 760291"
+    },
+    {
+      "address": "413 Yishun Ring Road|#01-1873",
+      "landmark": "Yishun Ring Road - 7-Eleven",
+      "latitude": 1.4249477,
+      "longitude": 103.8464827,
+      "postalCode": "Singapore 760413"
+    },
+    {
+      "address": "731 Yishun Street 72|#01-21A",
+      "landmark": "Yishun Street 72",
+      "latitude": 1.4283614,
+      "longitude": 103.8311154,
+      "postalCode": "Singapore 760731"
+    },
+    {
+      "address": "201 Yishun Avenue 2|Concourse Area",
+      "landmark": "Khatib MRT Station",
+      "latitude": 1.4173658,
+      "longitude": 103.8329446,
+      "postalCode": "Singapore 769092"
+    },
+    {
+      "address": "912 Upper Thomson Road",
+      "landmark": "Upper Thomson Road - 7-Eleven",
+      "latitude": 1.3990037,
+      "longitude": 103.8181204,
+      "postalCode": "Singapore 787113"
+    },
+    {
+      "address": "80 Airport Boulevard",
+      "landmark": "Changi Airport Terminal 1",
+      "latitude": 1.361999,
+      "longitude": 103.990499,
+      "postalCode": "Singapore 819642"
+    },
+    {
+      "address": "60 Airport Boulevard",
+      "landmark": "Changi Airport Terminal 2",
+      "latitude": 1.352131,
+      "longitude": 103.987495,
+      "postalCode": "Singapore 819643"
+    },
+    {
+      "address": "301 Upper Thomson Road",
+      "landmark": "Thomson Plaza",
+      "latitude": 1.354861,
+      "longitude": 103.830773,
+      "postalCode": "Singapore 574408"
+    },
+    {
+      "address": "68 Orchard Road|#B2-K2",
+      "landmark": "Plaza Singapura",
+      "latitude": 1.30062,
+      "longitude": 103.845008,
+      "postalCode": "Singapore 238839"
+    },
+    {
+      "address": "1 Kim Seng Promenade|#B1-K6",
+      "landmark": "Great World City",
+      "latitude": 1.293188,
+      "longitude": 103.832008,
+      "postalCode": "Singapore 237994"
+    },
+    {
+      "address": "1 Jalan Anak Bukit",
+      "landmark": "Bukit Timah Plaza",
+      "latitude": 1.338668,
+      "longitude": 103.7785816,
+      "postalCode": "Singapore 588996"
+    },
+    {
+      "address": "1 Rochor Canal Road|Level 1",
+      "landmark": "Sim Lim Square",
+      "latitude": 1.3034475,
+      "longitude": 103.8529112,
+      "postalCode": "Singapore 188504"
+    },
+    {
+      "address": "128 Toa Payoh Lorong 1|#01-821",
+      "landmark": "Toa Payoh Lorong 1",
+      "latitude": 1.338186,
+      "longitude": 103.8443249,
+      "postalCode": "Singapore 310128"
+    },
+    {
+      "address": "231 Bain Street|#01-17",
+      "landmark": "Bras Basah Complex",
+      "latitude": 1.2968619,
+      "longitude": 103.8533398,
+      "postalCode": "Singapore 180231"
+    },
+    {
+      "address": "8 Grange Road|#01-K2",
+      "landmark": "Cineleisure Orchard",
+      "latitude": 1.3014784,
+      "longitude": 103.8364883,
+      "postalCode": "Singapore 239695"
+    },
+    {
+      "address": "5 Tampines Street 32|Level 1",
+      "landmark": "Tampines Mart",
+      "latitude": 1.3542861,
+      "longitude": 103.9600069,
+      "postalCode": "Singapore 529284"
+    },
+    {
+      "address": "150 South Bridge Road|Level 1",
+      "landmark": "South Bridge Road - Fook Hai Building",
+      "latitude": 1.284889,
+      "longitude": 103.846525,
+      "postalCode": "Singapore 058727"
+    },
+    {
+      "address": "6 Bukit Timah Road|Concourse Area",
+      "landmark": "Little India MRT Station",
+      "latitude": 1.306970009,
+      "longitude": 103.8495862,
+      "postalCode": "Singapore 229900"
+    },
+    {
+      "address": "475 Tampines Street 44",
+      "landmark": "Tampines Street 44",
+      "latitude": 1.3602346,
+      "longitude": 103.9531029,
+      "postalCode": "Singapore 520475"
+    },
+    {
+      "address": "345 Jurong East Street 31",
+      "landmark": "Jurong East Street 31",
+      "latitude": 1.3456109,
+      "longitude": 103.731222,
+      "postalCode": "Singapore 600345"
+    },
+    {
+      "address": "583 Orchard Road|#B1-K3",
+      "landmark": "Forum The Shopping Mall",
+      "latitude": 1.306024,
+      "longitude": 103.828854,
+      "postalCode": "Singapore 238884"
+    },
+    {
+      "address": "317 Alexandra Road|Level 1",
+      "landmark": "IKEA Building",
+      "latitude": 1.2879488,
+      "longitude": 103.8059976,
+      "postalCode": "Singapore 159965"
+    },
+    {
+      "address": "1 Queensway|Level 1",
+      "landmark": "Queensway Shopping Centre",
+      "latitude": 1.2873611,
+      "longitude": 103.8031093,
+      "postalCode": "Singapore 149053"
+    },
+    {
+      "address": "3 Yuan Ching Road|#01-01A/02",
+      "landmark": "Yuan Ching Road - Sheng Siong Supermarket",
+      "latitude": 1.3261591,
+      "longitude": 103.7237585,
+      "postalCode": "Singapore 618642"
+    },
+    {
+      "address": "212 Toa Payoh Lorong 8 |#01-29",
+      "landmark": "Toa Payoh Lorong 8",
+      "latitude": 1.3406747,
+      "longitude": 103.8543615,
+      "postalCode": "Singapore 310212"
+    },
+    {
+      "address": "685 Hougang Street 61|#01-160",
+      "landmark": "Hougang Street 61",
+      "latitude": 1.3748488,
+      "longitude": 103.8863623,
+      "postalCode": "Singapore 530685"
+    },
+    {
+      "address": "68 Geylang Bahru|#01-3225",
+      "landmark": "Geylang Bahru",
+      "latitude": 1.3219692,
+      "longitude": 103.869815,
+      "postalCode": "Singapore 330068"
+    },
+    {
+      "address": "768 Woodlands Avenue 6|#01-K4",
+      "landmark": "Woodlands Mart",
+      "latitude": 1.4456303,
+      "longitude": 103.7981193,
+      "postalCode": "Singapore 730768"
+    },
+    {
+      "address": "524A Jelapang Road|#01-K2",
+      "landmark": "Greenridge Shopping Centre",
+      "latitude": 1.385322,
+      "longitude": 103.766139,
+      "postalCode": "Singapore 671524"
+    },
+    {
+      "address": "533 Choa Chu Kang St 51",
+      "landmark": "Limbang Shopping Centre",
+      "latitude": 1.392354,
+      "longitude": 103.743339,
+      "postalCode": "Singapore 680533"
+    },
+    {
+      "address": "475 Choa Chu Kang Avenue 3|#01-K3",
+      "landmark": "Sunshine Place",
+      "latitude": 1.377615,
+      "longitude": 103.73932,
+      "postalCode": "Singapore 680475"
+    },
+    {
+      "address": "57 Dawson Road|#01-01 FairPrice",
+      "landmark": "Dawson Place",
+      "latitude": 1.2927109,
+      "longitude": 103.8110011,
+      "postalCode": "Singapore 142057"
+    },
+    {
+      "address": "258 Pasir Ris Street 21|#01-K1",
+      "landmark": "Loyang Point",
+      "latitude": 1.366994,
+      "longitude": 103.9645765,
+      "postalCode": "Singapore 510258"
+    },
+    {
+      "address": "109 North Bridge Road|#01-K9",
+      "landmark": "Funan DigitaLife Mall",
+      "latitude": 1.2914125,
+      "longitude": 103.8500155,
+      "postalCode": "Singapore 179097"
+    },
+    {
+      "address": "226C Ang Mo Kio Avenue 1|#01-651",
+      "landmark": "Ang Mo Kio Avenue 1",
+      "latitude": 1.3671593,
+      "longitude": 103.8392385,
+      "postalCode": "Singapore 563226"
+    },
+    {
+      "address": "449 Ang Mo Kio Avenue 10|#01-1709",
+      "landmark": "Ang Mo Kio Avenue 10",
+      "latitude": 1.3680573,
+      "longitude": 103.8559596,
+      "postalCode": "Singapore 560449"
+    },
+    {
+      "address": "302 Tiong Bahru Road|#B1-01/02 FairPrice ",
+      "landmark": "Tiong Bahru Plaza - FairPrice",
+      "latitude": 1.286426,
+      "longitude": 103.826958,
+      "postalCode": "Singapore 168732"
+    },
+    {
+      "address": "9 Bishan Place|#01-K7",
+      "landmark": "Junction 8 Shopping Centre",
+      "latitude": 1.3506356,
+      "longitude": 103.8487439,
+      "postalCode": "Singapore 579837"
+    },
+    {
+      "address": "Blk 336 Smith Street, Level 1",
+      "landmark": "New Bridge Centre",
+      "latitude": 1.283,
+      "longitude": 103.84261,
+      "postalCode": "Singapore 050336"
+    },
+    {
+      "address": "290 Orchard Road|#B1-K12",
+      "landmark": "Paragon",
+      "latitude": 1.3038918,
+      "longitude": 103.8357322,
+      "postalCode": "Singapore 238859"
+    },
+    {
+      "address": "1 Park Road|Level One",
+      "landmark": "People's Park Complex",
+      "latitude": 1.28413,
+      "longitude": 103.84259,
+      "postalCode": "Singapore 059108"
+    },
+    {
+      "address": "1 Pasir Ris Close",
+      "landmark": "Downtown East",
+      "latitude": 1.3770924,
+      "longitude": 103.9560477,
+      "postalCode": "Singapore 519599"
+    },
+    {
+      "address": "163 Tanglin Road|#02-K6",
+      "landmark": "Tanglin Mall",
+      "latitude": 1.304839,
+      "longitude": 103.823764,
+      "postalCode": "Singapore 247933"
+    },
+    {
+      "address": "177 River Valley Road|#L1-K3",
+      "landmark": "Liang Court Shopping Centre",
+      "latitude": 1.2918105,
+      "longitude": 103.8446568,
+      "postalCode": "Singapore 179030"
+    },
+    {
+      "address": "205 Hougang Street 21|Level 1",
+      "landmark": "Heartland Mall",
+      "latitude": 1.3596018,
+      "longitude": 103.8851737,
+      "postalCode": "Singapore 530205"
+    },
+    {
+      "address": "59 Marine Terrace|#01-89",
+      "landmark": "Guardian Phamarcy",
+      "latitude": 1.3058764,
+      "longitude": 103.9147157,
+      "postalCode": "Singapore 440059"
+    },
+    {
+      "address": "10 Anson Road|Level 1",
+      "landmark": "International Plaza",
+      "latitude": 1.2758761,
+      "longitude": 103.8458687,
+      "postalCode": "Singapore 079903"
+    },
+    {
+      "address": "154A Bukit Batok West Avenue 8|#01-K1",
+      "landmark": "Bukit Batok West Avenue 8",
+      "latitude": 1.34792,
+      "longitude": 103.74389,
+      "postalCode": "Singapore 651154"
+    },
+    {
+      "address": "18 Marsiling Lane|#01-271",
+      "landmark": "Marsiling Lane",
+      "latitude": 1.4434044,
+      "longitude": 103.7778379,
+      "postalCode": "Singapore 730018"
+    },
+    {
+      "address": "37 Tebam Gardens Road",
+      "landmark": "Teban Gardens Road",
+      "latitude": 1.320484789,
+      "longitude": 103.7429309,
+      "postalCode": "Singapore  600037"
+    },
+    {
+      "address": "19 Ghim Moh Road|#01-245",
+      "landmark": "Ghim Moh Road",
+      "latitude": 1.3114573,
+      "longitude": 103.7882738,
+      "postalCode": "Singapore 270019"
+    },
+    {
+      "address": "106 Hougang Avenue 1|#01-1223",
+      "landmark": "Hougang Avenue 1 - 7-Eleven",
+      "latitude": 1.3537138,
+      "longitude": 103.8906559,
+      "postalCode": "Singapore 530106"
+    },
+    {
+      "address": "638 Jurong West St 61|Level 1",
+      "landmark": "Pioneer Mall",
+      "latitude": 1.3418252,
+      "longitude": 103.6974864,
+      "postalCode": "Singapore 640638"
+    },
+    {
+      "address": "1 Maritime Square",
+      "landmark": "Maritime Square",
+      "latitude": 1.263904,
+      "longitude": 103.8201912,
+      "postalCode": "Singapore 099253"
+    },
+    {
+      "address": "Supermarket|19 Serangoon North Avenue 5",
+      "landmark": "Serangoon North Avenue 5 - Sheng Siong ",
+      "latitude": 1.3760912,
+      "longitude": 103.8720312,
+      "postalCode": "Singapore 554913"
+    },
+    {
+      "address": "849 Yishun Ring Road",
+      "landmark": "Yishun Ring Road",
+      "latitude": 1.417124006,
+      "longitude": 103.8352096,
+      "postalCode": "Singapore 760849"
+    },
+    {
+      "address": "506 Tampines Central 1|#01-K1",
+      "landmark": "Tampines Central 1",
+      "latitude": 1.3559868,
+      "longitude": 103.9459049,
+      "postalCode": "Singapore 520506"
+    },
+    {
+      "address": "301 Commonwealth Avenue|Concourse Area",
+      "landmark": "Queenstown MRT Station",
+      "latitude": 1.2946284,
+      "longitude": 103.8060102,
+      "postalCode": "Singapore 149729"
+    },
+    {
+      "address": "920 New Upper Changi Road|Concourse Area",
+      "landmark": "Tanah Merah MRT Station",
+      "latitude": 1.32725,
+      "longitude": 103.94626,
+      "postalCode": "Singapore 467356"
+    },
+    {
+      "address": "151 New Bridge Road",
+      "landmark": "Chinatown MRT Station",
+      "latitude": 1.28444,
+      "longitude": 103.84338,
+      "postalCode": "Singapore 059443"
+    },
+    {
+      "address": "260 Kim Keat Avenue |#01-00",
+      "landmark": "Kim Keat Avenue",
+      "latitude": 1.3321177,
+      "longitude": 103.8574045,
+      "postalCode": "Singapore 310260"
+    },
+    {
+      "address": "293 Holland Road|Level 2",
+      "landmark": "Jelita Shopping Centre",
+      "latitude": 1.317502,
+      "longitude": 103.785833,
+      "postalCode": "Singapore 278628"
+    },
+    {
+      "address": "32 New Market Road|#01-K3",
+      "landmark": "Peoples Park Food Centre",
+      "latitude": 1.28515314,
+      "longitude": 103.8426018,
+      "postalCode": "Singapore 050032"
+    },
+    {
+      "address": "678A Woodlands Avenue 6|#01-K2",
+      "landmark": "Admiralty Place",
+      "latitude": 1.440413,
+      "longitude": 103.8015174,
+      "postalCode": "Singapore 731678"
+    },
+    {
+      "address": "30 Simei Street|Concourse Area",
+      "landmark": "Simei MRT Station",
+      "latitude": 1.3431843,
+      "longitude": 103.9533524,
+      "postalCode": "Singapore 529888"
+    },
+    {
+      "address": "60 Tampines North Drive 2",
+      "landmark": "IKEA Building",
+      "latitude": 1.373947,
+      "longitude": 103.932336,
+      "postalCode": "Singapore 528764"
+    },
+    {
+      "address": "Blk 866A Tampines Street 83 |#01-01 ",
+      "landmark": "Tampines Central Community Centre",
+      "latitude": 1.355389,
+      "longitude": 103.9344477,
+      "postalCode": "Singapore 521866"
+    },
+    {
+      "address": "10 Sinaran Drive|#04-03/47/48/49/55 Square 2",
+      "landmark": "Square 2 - FairPrice",
+      "latitude": 1.32076,
+      "longitude": 103.84417,
+      "postalCode": "Singapore 307506"
+    },
+    {
+      "address": "53 Ang Mo Kio Avenue 3",
+      "landmark": "AMK Hub",
+      "latitude": 1.36960931741908,
+      "longitude": 103.848513364791,
+      "postalCode": "Singapore 569933"
+    },
+    {
+      "address": "166 Bukit Merah Central|#01-3531",
+      "landmark": "Bukit Merah Central - FairPrice",
+      "latitude": 1.2829733,
+      "longitude": 103.8175593,
+      "postalCode": "Singapore 150166"
+    },
+    {
+      "address": "212 Bedok North Street 1|#01-147",
+      "landmark": "Bedok North Street 1 - FairPrice",
+      "latitude": 1.3259074,
+      "longitude": 103.9315706,
+      "postalCode": "Singapore 460212"
+    },
+    {
+      "address": "71 Kallang Bahru|#01-529/02-531",
+      "landmark": "Kallang Bahru - FairPrice",
+      "latitude": 1.3210001,
+      "longitude": 103.8703792,
+      "postalCode": "Singapore 330071"
+    },
+    {
+      "address": "Blk 628 Senja Road #01-01 |Senja Grand ",
+      "landmark": "Senja Road - FairPrice",
+      "latitude": 1.385166997,
+      "longitude": 103.7603062,
+      "postalCode": "Singapore 670628"
+    },
+    {
+      "address": "Blk 498 Jurong West Street 41 |#01-434/436/438 ",
+      "landmark": "Jurong West Street 41 - FairPrice ",
+      "latitude": 1.3483117,
+      "longitude": 103.7242489,
+      "postalCode": "Singapore 640498"
+    },
+    {
+      "address": "89 Bedok North Street 4|#01-77/79",
+      "landmark": "Bedok North Street 4 - FairPrice",
+      "latitude": 1.3329912,
+      "longitude": 103.9382518,
+      "postalCode": "Singapore 460089"
+    },
+    {
+      "address": "57 New Upper Changi Road|#01-1334/1336/1338",
+      "landmark": "New Upper Changi Road - FairPrice",
+      "latitude": 1.3243088,
+      "longitude": 103.9415187,
+      "postalCode": "Singapore 461057"
+    },
+    {
+      "address": "352 Clementi Avenue 2|#01-141/143",
+      "landmark": "Clementi Avenue 2 - FairPrice",
+      "latitude": 1.314892,
+      "longitude": 103.7715651,
+      "postalCode": "Singapore 120352"
+    },
+    {
+      "address": "50 Havelock Road|#01-755",
+      "landmark": "Havelock Road - FairPrice",
+      "latitude": 1.2897724,
+      "longitude": 103.8268275,
+      "postalCode": "Singapore 160050"
+    },
+    {
+      "address": "934 East Coast Road|Siglap New Market",
+      "landmark": "East Coast Road - FairPrice",
+      "latitude": 1.31259045,
+      "longitude": 103.9253533,
+      "postalCode": "Singapore 459125"
+    },
+    {
+      "address": "239 Yishun Ring Road|#01-1150",
+      "landmark": "Yishun Ring Road - FairPrice",
+      "latitude": 1.433584,
+      "longitude": 103.8396725,
+      "postalCode": "Singapore 760239"
+    },
+    {
+      "address": "587 Bukit Timah Road|#01-01 Coronation Plaza",
+      "landmark": "Bukit Timah Road - FairPrice",
+      "latitude": 1.3238689,
+      "longitude": 103.8098195,
+      "postalCode": "Singapore 269707"
+    },
+    {
+      "address": "451 Clementi Avenue 3|#01-307",
+      "landmark": "Clementi Avenue 3 - FairPrice",
+      "latitude": 1.312552,
+      "longitude": 103.765686,
+      "postalCode": "Singapore 120451"
+    },
+    {
+      "address": "1 Hougang Street 91|#02-02 Hougang 1",
+      "landmark": "Hougang Street 91 - FairPrice",
+      "latitude": 1.3759496,
+      "longitude": 103.8792155,
+      "postalCode": "Singapore 538692"
+    },
+    {
+      "address": "414 Yishun Ring Road|#01-1853",
+      "landmark": "Yishun Ring Road - FairPrice",
+      "latitude": 1.424943,
+      "longitude": 103.846419,
+      "postalCode": "Singapore 760414"
+    },
+    {
+      "address": "Blk 135 Jurong Gateway Road|#01-337",
+      "landmark": "Jurong Gateway Road - FairPrice",
+      "latitude": 1.3338586,
+      "longitude": 103.7397305,
+      "postalCode": "Singapore 600135"
+    },
+    {
+      "address": "280 Bukit Batok East Avenue 3|#01-315|",
+      "landmark": "Bukit Batok East Avenue 3 - FairPrice",
+      "latitude": 1.3476146,
+      "longitude": 103.7571756,
+      "postalCode": "Singapore 650280"
+    },
+    {
+      "address": "500 Toa Payoh Lorong 6|#B1-32 HDB Hub|",
+      "landmark": "Toa Payoh Lorong 6 - FairPrice",
+      "latitude": 1.33288,
+      "longitude": 103.8473,
+      "postalCode": "Singapore 310500"
+    },
+    {
+      "address": "Blk 43 Cambridge Road|#01-15",
+      "landmark": "Cambridge Road - FairPrice",
+      "latitude": 1.3153379,
+      "longitude": 103.8494389,
+      "postalCode": "Singapore 210043"
+    },
+    {
+      "address": "54 Gombak Rise",
+      "landmark": "MINDEF - Bukit Batok Camp",
+      "latitude": 1.3656617,
+      "longitude": 103.7572157,
+      "postalCode": "Singapore 679885"
+    },
+    {
+      "address": "3 Depot Road|Singapore 109680",
+      "landmark": "MINDEF - Depot Road Camp",
+      "latitude": 1.2801786,
+      "longitude": 103.8149109,
+      "postalCode": "Singapore 109680"
+    },
+    {
+      "address": "131 Killiney Road|#01-01/02/03",
+      "landmark": "Killiney Road - FairPrice",
+      "latitude": 1.2976531,
+      "longitude": 103.8382649,
+      "postalCode": "Singapore 239571"
+    },
+    {
+      "address": "900 South Woodlands Drive|#B1-01|Woodlands Civic Centre",
+      "landmark": "South Woodlands Drive - FairPrice",
+      "latitude": 1.4350535,
+      "longitude": 103.7868623,
+      "postalCode": "Singapore 730900"
+    },
+    {
+      "address": "107 Tampines Street 11|#01-353/355/357/359",
+      "landmark": "Tampines Street 11 - FairPrice",
+      "latitude": 1.3483746,
+      "longitude": 103.9480549,
+      "postalCode": "Singapore 521107"
+    },
+    {
+      "address": "30 Woodlands Avenue 1|#01-11/30 to 58 The Woodgrove",
+      "landmark": "Woodlands Avenue 1 - FairPrice",
+      "latitude": 1.4291664,
+      "longitude": 103.7810742,
+      "postalCode": "Singapore 739065"
+    },
+    {
+      "address": "170 Stirling Road|#01-1147",
+      "landmark": "Stirling Road - FairPrice",
+      "latitude": 1.290945,
+      "longitude": 103.803238,
+      "postalCode": "Singapore 140170"
+    },
+    {
+      "address": "152B Serangoon North Avenue 1|#01-384",
+      "landmark": "Serangoon North Avenue 1 - FairPrice",
+      "latitude": 1.3698237,
+      "longitude": 103.8730163,
+      "postalCode": "Singapore 552152"
+    },
+    {
+      "address": "682 Hougang Avenue 4|#01-310",
+      "landmark": "Hougang Avenue 4 - FairPrice",
+      "latitude": 1.373628,
+      "longitude": 103.8857062,
+      "postalCode": "Singapore 530682"
+    },
+    {
+      "address": "202 Hougang Street 21|#01-00",
+      "landmark": "Hougang Street 21 - FairPrice",
+      "latitude": 1.3575916,
+      "longitude": 103.8839841,
+      "postalCode": "Singapore 530202"
+    },
+    {
+      "address": "29B Chai Chee Avenue|#01-62Joo Chiat Road - FairPrice",
+      "landmark": "Chai Chee Avenue - FairPrice",
+      "latitude": 1.3247993,
+      "longitude": 103.9237404,
+      "postalCode": "Singapore 461029"
+    },
+    {
+      "address": "23 Hougang Avenue 3|#01-281",
+      "landmark": "Hougang Avenue 3 - Cheers",
+      "latitude": 1.3648282,
+      "longitude": 103.8906579,
+      "postalCode": "Singapore 530023"
+    },
+    {
+      "address": "253 Serangoon Central Drive|#01-241|",
+      "landmark": "Serangoon Central Drive - FairPrice",
+      "latitude": 1.3540772,
+      "longitude": 103.8708075,
+      "postalCode": "Singapore 550253"
+    },
+    {
+      "address": "114, Aljunied Avenue 2 #01-75|#01-75",
+      "landmark": "Aljunied Avenue 2 - FairPrice",
+      "latitude": 1.3217522,
+      "longitude": 103.8868126,
+      "postalCode": "Singapore 380114"
+    },
+    {
+      "address": "No. 6 Marine Parade Central",
+      "landmark": "Marine Parade Central - FairPrice",
+      "latitude": 1.301574803,
+      "longitude": 103.9071679,
+      "postalCode": "Singapore 449411"
+    },
+    {
+      "address": "888 Woodlands Drive 50|#01-757",
+      "landmark": "Woodlands Drive 50 - FairPrice",
+      "latitude": 1.4377962,
+      "longitude": 103.7952803,
+      "postalCode": "Singapore 730888"
+    },
+    {
+      "address": "Blk 140 Teck Whye Lane|#01-351",
+      "landmark": "Teck Whye Lane - FairPrice ",
+      "latitude": 1.38000793,
+      "longitude": 103.7530911,
+      "postalCode": "Singapore 680140"
+    },
+    {
+      "address": "5 Upper Boon Keng Road|#01-05",
+      "landmark": "Upper Boon Keng Road - FairPrice",
+      "latitude": 1.312751,
+      "longitude": 103.872106,
+      "postalCode": "Singapore 380004"
+    },
+    {
+      "address": "Blk 28 Dover Crescent|#01-83",
+      "landmark": "Dover Crescent - FairPrice",
+      "latitude": 1.3050882,
+      "longitude": 103.7814244,
+      "postalCode": "Singapore 130028"
+    },
+    {
+      "address": "355 Sembawang Way",
+      "landmark": "Sembawang Way - FairPrice",
+      "latitude": 1.4495457,
+      "longitude": 103.8186535,
+      "postalCode": "Singapore 750355"
+    },
+    {
+      "address": "65 Airport Boulevard",
+      "landmark": "Changi Airport Terminal 3",
+      "latitude": 1.35349,
+      "longitude": 103.98568,
+      "postalCode": "Singapore 819663"
+    },
+    {
+      "address": "437 Orchard Road|Basement 2",
+      "landmark": "Orchard MRT Station",
+      "latitude": 1.3042924,
+      "longitude": 103.8324935,
+      "postalCode": "Singapore 238878"
+    },
+    {
+      "address": "3 Mount Elizabeth|Level 1",
+      "landmark": "Mount Elizabeth Medical Centre",
+      "latitude": 1.305859863,
+      "longitude": 103.8353974,
+      "postalCode": "Singapore 228510"
+    },
+    {
+      "address": "Blk 63/66 Yung Kuang Road|Level 2",
+      "landmark": "Yung Kuang Road - FairPrice",
+      "latitude": 1.3321081,
+      "longitude": 103.7224562,
+      "postalCode": "Singapore 610063"
+    },
+    {
+      "address": "745 Bedok Reservoir Road|#01-3015",
+      "landmark": "Bedok Reservoir Road - FairPrice",
+      "latitude": 1.3374184,
+      "longitude": 103.9217691,
+      "postalCode": "Singapore 470745"
+    },
+    {
+      "address": "277C Compassvale Link|#01-13",
+      "landmark": "Compassvale Link - FairPrice",
+      "latitude": 1.382346,
+      "longitude": 103.8944413,
+      "postalCode": "Singapore 543277"
+    },
+    {
+      "address": "1 Expo Drive|Foyer 2",
+      "landmark": "Expo Drive - Singapore Expo",
+      "latitude": 1.334308,
+      "longitude": 103.959258,
+      "postalCode": "Singapore 486150"
+    },
+    {
+      "address": "Blk 41 Jalan Tiga |#01-05",
+      "landmark": "Jalan Tiga - FairPrice ",
+      "latitude": 1.307828,
+      "longitude": 103.8846995,
+      "postalCode": "Singapore 390041"
+    },
+    {
+      "address": "80 Lorong Limau|#01-191",
+      "landmark": "Lorong Limau - FairPrice",
+      "latitude": 1.323903695,
+      "longitude": 103.8557634,
+      "postalCode": "Singapore 320080"
+    },
+    {
+      "address": "61 Kaki Bukit Ave 1|Lobby",
+      "landmark": "Shun Li Industrial Park",
+      "latitude": 1.336705,
+      "longitude": 103.910631,
+      "postalCode": "Singapore 417943"
+    },
+    {
+      "address": "604 Sembawang Road|Level 2 Sembawang Shopping Centre",
+      "landmark": "Sembawang Shopping Centre",
+      "latitude": 1.4417357,
+      "longitude": 103.8246531,
+      "postalCode": "Singapore 758459"
+    },
+    {
+      "address": "120 Maxwell Road|Tanjong Pagar Xchange",
+      "landmark": "Tanjong Pagar MRT Station",
+      "latitude": 1.2765752,
+      "longitude": 103.8458676,
+      "postalCode": "Singapore 069119"
+    },
+    {
+      "address": "250 Thomson Road|Novena MRT Station",
+      "landmark": "Novena MRT Station",
+      "latitude": 1.3200528,
+      "longitude": 103.8438445,
+      "postalCode": "Singapore 307642"
+    },
+    {
+      "address": "200 Commonwealth Avenue West|Dover MRT Station",
+      "landmark": "Dover MRT Station",
+      "latitude": 1.311416,
+      "longitude": 103.7785974,
+      "postalCode": "Singapore 138677"
+    },
+    {
+      "address": "802 Bukit Batok West Avenue 5|Bukit Gombak MRT Station",
+      "landmark": "Bukit Gombak MRT Station",
+      "latitude": 1.358945,
+      "longitude": 103.7518626,
+      "postalCode": "Singapore 659083"
+    },
+    {
+      "address": "21 Choa Chu Kang Ave 4|#B1-K13A",
+      "landmark": "Lot 1 Shoppers Mall",
+      "latitude": 1.385017,
+      "longitude": 103.74528,
+      "postalCode": "Singapore 689812"
+    },
+    {
+      "address": "61 Teban Gardens Rd|#01-K2",
+      "landmark": "Teban Place",
+      "latitude": 1.3222065,
+      "longitude": 103.7382286,
+      "postalCode": "Singapore 600061"
+    },
+    {
+      "address": "11 Canberra Road|Concourse Area",
+      "landmark": "Sembawang MRT Station",
+      "latitude": 1.4490414,
+      "longitude": 103.8200194,
+      "postalCode": "Singapore 759775"
+    },
+    {
+      "address": "30 Paya Lebar Road|Concourse Area",
+      "landmark": "Paya Lebar MRT Station",
+      "latitude": 1.3181731,
+      "longitude": 103.8931053,
+      "postalCode": "Singapore 409006"
+    },
+    {
+      "address": "301 Yishun Avenue|Concourse Area",
+      "landmark": "Yishun MRT Station",
+      "latitude": 1.4294324,
+      "longitude": 103.8349697,
+      "postalCode": "Singapore 769093"
+    },
+    {
+      "address": "218 Balestier Road|Value Hotel",
+      "landmark": "Balestier Road - Cheers",
+      "latitude": 1.3211706,
+      "longitude": 103.8532673,
+      "postalCode": "Singapore 329684"
+    },
+    {
+      "address": "9 Woodlands Avenue 9",
+      "landmark": "Republic Polytechnic",
+      "latitude": 1.4421497,
+      "longitude": 103.7858265,
+      "postalCode": "Singapore 738964"
+    },
+    {
+      "address": "10 Tampines Central 1|#01-K1",
+      "landmark": "Tampines 1",
+      "latitude": 1.354153,
+      "longitude": 103.945084,
+      "postalCode": "Singapore 529536"
+    },
+    {
+      "address": "624 Choa Chu Kang St 62",
+      "landmark": "Yew Tee Square",
+      "latitude": 1.3979868,
+      "longitude": 103.7469021,
+      "postalCode": "Singapore 680624"
+    },
+    {
+      "address": "2 Orchard Turn",
+      "landmark": "ION Orchard",
+      "latitude": 1.304,
+      "longitude": 103.83204,
+      "postalCode": "Singapore 238801"
+    },
+    {
+      "address": "2 Joo Chiat Road|#01/02-1139|Joo Chiat Complex|",
+      "landmark": "Joo Chiat Road - FairPrice",
+      "latitude": 1.316023,
+      "longitude": 103.898231,
+      "postalCode": "Singapore 420002"
+    },
+    {
+      "address": "629 Ang Mo Kio Ave 4|#01-1006/1008/1010",
+      "landmark": "Ang Mo Kio Branch",
+      "latitude": 1.3801854,
+      "longitude": 103.8404156,
+      "postalCode": "Singapore 560629"
+    },
+    {
+      "address": "360 Balestier Road ",
+      "landmark": "Shaw Plaza - Twin Heights",
+      "latitude": 1.325199,
+      "longitude": 103.850989,
+      "postalCode": "Singapore 329783"
+    },
+    {
+      "address": "204 Bedok North St 1 |#01-403/405/407",
+      "landmark": "Bedok Branch",
+      "latitude": 1.3263064,
+      "longitude": 103.930105,
+      "postalCode": "Singapore 460204"
+    },
+    {
+      "address": "88 Bedok North St 4|#01-163",
+      "landmark": "Bedok North Branch",
+      "latitude": 1.3331407,
+      "longitude": 103.9390281,
+      "postalCode": "Singapore 460088"
+    },
+    {
+      "address": "501 Bishan St 11|#01-372/374",
+      "landmark": "Bishan Branch",
+      "latitude": 1.3483744,
+      "longitude": 103.8493234,
+      "postalCode": "Singapore 570501"
+    },
+    {
+      "address": "257 Bangkit Rd|#01-51/53/55",
+      "landmark": "Bukit Panjang Branch",
+      "latitude": 1.3785138,
+      "longitude": 103.7732147,
+      "postalCode": "Singapore 670257"
+    },
+    {
+      "address": "170 Upper Bukit Timah Rd |#01-01|Bukit Timah Shopping Centre",
+      "landmark": "Bukit Timah Branch",
+      "latitude": 1.3431448,
+      "longitude": 103.7760788,
+      "postalCode": "Singapore 588179"
+    },
+    {
+      "address": "1 Woodlands Square |#01-16 Causeway Point",
+      "landmark": "Causeway Point Branch",
+      "latitude": 1.4360915,
+      "longitude": 103.7859058,
+      "postalCode": "Singapore 738099"
+    },
+    {
+      "address": "304 Choa Chu Kang Ave 4 |#01-663",
+      "landmark": "Choa Chu Kang Branch",
+      "latitude": 1.3845134,
+      "longitude": 103.7431433,
+      "postalCode": "Singapore 680304"
+    },
+    {
+      "address": "3155 Commonwealth Avenue West",
+      "landmark": "The Clementi Mall",
+      "latitude": 1.314811,
+      "longitude": 103.764657,
+      "postalCode": "Singapore 129588"
+    },
+    {
+      "address": "|325/327 Geylang Road",
+      "landmark": "Geylang Branch",
+      "latitude": 1.3128429,
+      "longitude": 103.8794977,
+      "postalCode": "Singapore 389360"
+    },
+    {
+      "address": "249 Holland Ave",
+      "landmark": "Holland Village Branch",
+      "latitude": 1.3112398,
+      "longitude": 103.7955609,
+      "postalCode": "Singapore 278980"
+    },
+    {
+      "address": "211 Hougang St 21|#01-295",
+      "landmark": "Hougang Branch",
+      "latitude": 1.3596609,
+      "longitude": 103.8876821,
+      "postalCode": "Singapore 530211"
+    },
+    {
+      "address": "90 Hougang Ave 10 |#01-01 to 05 Hougang Mall",
+      "landmark": "Hougang Mall Branch",
+      "latitude": 1.372861,
+      "longitude": 103.893799,
+      "postalCode": "Singapore 538766"
+    },
+    {
+      "address": "65 Yung Kuang Road |#01-95/97/99/101",
+      "landmark": "Jurong Branch",
+      "latitude": 1.3323974,
+      "longitude": 103.7228893,
+      "postalCode": "Singapore 610065"
+    },
+    {
+      "address": "130 Jurong Gateway Road |#01-223  ",
+      "landmark": "Jurong Gateway Road - 7-Eleven",
+      "latitude": 1.33514,
+      "longitude": 103.73951,
+      "postalCode": "Singapore  600130 "
+    },
+    {
+      "address": "1 Jurong West Central 2 ",
+      "landmark": "Jurong Point Shopping Centre",
+      "latitude": 1.339815623,
+      "longitude": 103.7069893,
+      "postalCode": "Singapore 648886"
+    },
+    {
+      "address": "502 Jurong West Ave 1 |#01-821",
+      "landmark": "Jurong West Branch",
+      "latitude": 1.3504865,
+      "longitude": 103.7181373,
+      "postalCode": "Singapore 640502"
+    },
+    {
+      "address": "460 North Bridge Road |#01-00",
+      "landmark": "North Branch",
+      "latitude": 1.2982614,
+      "longitude": 103.855756,
+      "postalCode": "Singapore 188734"
+    },
+    {
+      "address": "930 Yishun Ave 2|#B1-37/38/39 Northpoint Shopping Centre",
+      "landmark": "Northpoint Branch",
+      "latitude": 1.429713,
+      "longitude": 103.835901,
+      "postalCode": "Singapore 769098"
+    },
+    {
+      "address": "50 Nanyang Avenue",
+      "landmark": "Nanyang Technological University",
+      "latitude": 1.3445677,
+      "longitude": 103.6810023,
+      "postalCode": "Singapore 639798"
+    },
+    {
+      "address": "65 Chulia St|#01-00 OCBC Centre",
+      "landmark": "OCBC Centre Branch",
+      "latitude": 1.285026,
+      "longitude": 103.84907,
+      "postalCode": "Singapore 049513"
+    },
+    {
+      "address": "277 Orchard Road, |orchardgateway, #B1-12|(with Premier Banking centre)",
+      "landmark": "Orchardgateway  Branch",
+      "latitude": 1.300542,
+      "longitude": 103.839192,
+      "postalCode": "Singapore 238858 "
+    },
+    {
+      "address": "101 Upper Cross St |#01-27",
+      "landmark": "People's Park Centre",
+      "latitude": 1.2854337,
+      "longitude": 103.8436813,
+      "postalCode": "Singapore 058357"
+    },
+    {
+      "address": "86/88 Serangoon Garden Way",
+      "landmark": "Serangoon Garden Branch",
+      "latitude": 1.3644178,
+      "longitude": 103.8649363,
+      "postalCode": "Singapore 555982"
+    },
+    {
+      "address": "827 Bukit Timah Road",
+      "landmark": "Sixth Avenue Branch",
+      "latitude": 1.33161,
+      "longitude": 103.79475,
+      "postalCode": "Singapore 279886"
+    },
+    {
+      "address": "70 Stamford Road|#B1-43|Singapore Management University",
+      "landmark": "SMU Branch",
+      "latitude": 1.296373,
+      "longitude": 103.850176,
+      "postalCode": "Singapore 178901"
+    },
+    {
+      "address": "1 Tampines Central 5|#01-02|Tampines CPF Building",
+      "landmark": "Tampines Branch",
+      "latitude": 1.3531169,
+      "longitude": 103.943659,
+      "postalCode": "Singapore 529508"
+    },
+    {
+      "address": "181 Upper Thomson Road",
+      "landmark": "Thomson Branch",
+      "latitude": 1.3508562,
+      "longitude": 103.83557,
+      "postalCode": "Singapore 574331"
+    },
+    {
+      "address": "520 Lorong 6 Toa Payoh HDB Hub|#02-52/53",
+      "landmark": "Toa Payoh Central Branch",
+      "latitude": 1.332701,
+      "longitude": 103.8472004,
+      "postalCode": "Singapore  310520"
+    },
+    {
+      "address": "23 Serangoon Central",
+      "landmark": "Nex",
+      "latitude": 1.349995,
+      "longitude": 103.8725,
+      "postalCode": "Singapore 556083"
+    },
+    {
+      "address": "1 Pasir Ris Central St 3",
+      "landmark": "White Sands",
+      "latitude": 1.3724652,
+      "longitude": 103.9496805,
+      "postalCode": "Singapore 518457"
+    },
+    {
+      "address": "303 Woodlands St 31 |#01-159/161",
+      "landmark": "Woodlands Branch",
+      "latitude": 1.431132,
+      "longitude": 103.773959,
+      "postalCode": "Singapore 730303"
+    },
+    {
+      "address": "302 Ubi Ave 1|#01-59/63",
+      "landmark": "Ubi Business Banking Centre",
+      "latitude": 1.3300359,
+      "longitude": 103.9009724,
+      "postalCode": "Singapore 400302"
+    },
+    {
+      "address": "1 Onan Road",
+      "landmark": "Onan Road - Cheers",
+      "latitude": 1.316012049,
+      "longitude": 103.8971901,
+      "postalCode": "Singapore 424780"
+    },
+    {
+      "address": "91 Joo Koon Circle",
+      "landmark": "Joo Koon MRT Station ",
+      "latitude": 1.327701,
+      "longitude": 103.678271,
+      "postalCode": "Singapore 629116"
+    },
+    {
+      "address": "61 Choa Chu Kang Drive ",
+      "landmark": "Yew Tee MRT Station ",
+      "latitude": 1.39786083,
+      "longitude": 103.7473619,
+      "postalCode": "Singapore 689715"
+    },
+    {
+      "address": "30 Eunos Crescent ",
+      "landmark": "Eunos MRT Station ",
+      "latitude": 1.319905586,
+      "longitude": 103.9026082,
+      "postalCode": "Singapore 409423"
+    },
+    {
+      "address": "10 Pasir Ris Central ",
+      "landmark": "Pasir Ris MRT Station  ",
+      "latitude": 1.373921073,
+      "longitude": 103.9497292,
+      "postalCode": "Singapore 519634"
+    },
+    {
+      "address": "Blk 36 Holland Drive #01-03",
+      "landmark": "Holland Drive - FairPrice",
+      "latitude": 1.309587163,
+      "longitude": 103.7926054,
+      "postalCode": "Singapore 270036"
+    },
+    {
+      "address": "960 Woodlands Road",
+      "landmark": "Kranji MRT Station",
+      "latitude": 1.42542557,
+      "longitude": 103.7618887,
+      "postalCode": "Singapore 738702"
+    },
+    {
+      "address": "151 Boon Lay Way",
+      "landmark": "Chinese Garden MRT Station",
+      "latitude": 1.343105792,
+      "longitude": 103.7326097,
+      "postalCode": "Singapore 609959"
+    },
+    {
+      "address": "211 New Bridge Road #01-06/07|Lucky Chinatown",
+      "landmark": "New Bridge Road - Cheers",
+      "latitude": 1.283908907,
+      "longitude": 103.8434279,
+      "postalCode": "Singapore 059432"
+    },
+    {
+      "address": "50 Beach View|Beach Station",
+      "landmark": "Sentosa",
+      "latitude": 1.250907,
+      "longitude": 103.818411,
+      "postalCode": "Singapore 098604"
+    },
+    {
+      "address": "3A Woodlands Square ",
+      "landmark": "Woodlands Temporary Bus Interchange",
+      "latitude": 1.4376582,
+      "longitude": 103.7858516,
+      "postalCode": "Singapore 737735"
+    },
+    {
+      "address": "301 Choa Chu Kang Avenue 4",
+      "landmark": "Choa Chu Kang Bus Interchange",
+      "latitude": 1.38547268,
+      "longitude": 103.7436604,
+      "postalCode": "Singapore 689811"
+    },
+    {
+      "address": "180 Kitchener Road",
+      "landmark": "City Square Mall",
+      "latitude": 1.31125,
+      "longitude": 103.85641,
+      "postalCode": "Singapore 208539"
+    },
+    {
+      "address": "31 Jurong West Street 63",
+      "landmark": "Pioneer MRT Station",
+      "latitude": 1.337678486,
+      "longitude": 103.6970544,
+      "postalCode": "Singapore 648310"
+    },
+    {
+      "address": "21 Tampines Avenue 1|Temasek Polytechnic|(Temasek Business School Block 26, Level 2)",
+      "landmark": "Tampines Avenue 1 - Cheers",
+      "latitude": 1.346280653,
+      "longitude": 103.931973,
+      "postalCode": "Singapore 529757"
+    },
+    {
+      "address": "313 Orchard Road Level 1",
+      "landmark": "313@Somerset",
+      "latitude": 1.301338829,
+      "longitude": 103.8384604,
+      "postalCode": "Singapore 238895"
+    },
+    {
+      "address": "71 Woodlands Ave 3|Marsiling MRT Station",
+      "landmark": "Woodlands Avenue 3 - FairPrice",
+      "latitude": 1.43264,
+      "longitude": 103.77429,
+      "postalCode": "Singapore 739044"
+    },
+    {
+      "address": "100 Hougang Avenue 10|#01-01 and #02-01",
+      "landmark": "Hougang Avenue 10 - FairPrice",
+      "latitude": 1.372763,
+      "longitude": 103.893542,
+      "postalCode": "Singapore 538767"
+    },
+    {
+      "address": "63 Jurong West Central 3|#03-01 Fairprice",
+      "landmark": "Jurong Point Shopping Centre",
+      "latitude": 1.340000001,
+      "longitude": 103.7066728,
+      "postalCode": "Singapore 648331"
+    },
+    {
+      "address": "2 Tampines Central 5|#B1-07/08/17",
+      "landmark": "Century Square - FairPrice",
+      "latitude": 1.35244,
+      "longitude": 103.94381,
+      "postalCode": "Singapore 529509"
+    },
+    {
+      "address": "79 Robinson Road|#01-02 CPF Building",
+      "landmark": "Robinson Road - Cheers",
+      "latitude": 1.277065619,
+      "longitude": 103.848052,
+      "postalCode": "Singapore 068897"
+    },
+    {
+      "address": "Blk 511 Canberra Road|#02-03",
+      "landmark": "Canberra Road - FairPrice",
+      "latitude": 1.45394,
+      "longitude": 103.81945,
+      "postalCode": "Singapore 750511"
+    },
+    {
+      "address": "200 Bishan Road|#01-K4",
+      "landmark": "Bishan MRT Station",
+      "latitude": 1.350688983,
+      "longitude": 103.8484704,
+      "postalCode": "Singapore 579827"
+    },
+    {
+      "address": "5 Lower Kent Ridge Road",
+      "landmark": "National University Hospital",
+      "latitude": 1.29645,
+      "longitude": 103.78285,
+      "postalCode": "Singapore 119074"
+    },
+    {
+      "address": "10 Sengkang Square|Kopitiam Square Level 1",
+      "landmark": "Sengkang Square - Kopitiam Square",
+      "latitude": 1.39137,
+      "longitude": 103.89383,
+      "postalCode": "Singapore 544829"
+    },
+    {
+      "address": "26 Sentosa Gateway",
+      "landmark": "Resorts World at Sentosa",
+      "latitude": 1.25541,
+      "longitude": 103.82256,
+      "postalCode": "Singapore 098138"
+    },
+    {
+      "address": "154 West Coast Road",
+      "landmark": "West Coast Plaza",
+      "latitude": 1.303774,
+      "longitude": 103.766084,
+      "postalCode": "Singapore 127371"
+    },
+    {
+      "address": "10 Bayfront Avenue",
+      "landmark": "Marina Bay Sands",
+      "latitude": 1.28246,
+      "longitude": 103.85797,
+      "postalCode": "Singapore 018971"
+    },
+    {
+      "address": "90 Bras Basah Road",
+      "landmark": "Esplanade MRT Station",
+      "latitude": 1.29343,
+      "longitude": 103.85538,
+      "postalCode": "Singapore 189562"
+    },
+    {
+      "address": "6 Eu Tong Sen Street",
+      "landmark": "The Central",
+      "latitude": 1.28891,
+      "longitude": 103.8466,
+      "postalCode": "Singapore 059817"
+    },
+    {
+      "address": "65 Bras Basah Road",
+      "landmark": "Bras Basah MRT Station",
+      "latitude": 1.29718,
+      "longitude": 103.85086,
+      "postalCode": "Singapore 189561"
+    },
+    {
+      "address": "Blk 5 Eunos Crescent|#01-2623",
+      "landmark": "Eunos Crescent - FairPrice",
+      "latitude": 1.32121,
+      "longitude": 103.9036,
+      "postalCode": "Singapore 400005"
+    },
+    {
+      "address": "2 Temasek Avenue",
+      "landmark": "Promenade MRT Station",
+      "latitude": 1.29325,
+      "longitude": 103.86118,
+      "postalCode": "Singapore 039193"
+    },
+    {
+      "address": "33 Upper Paya Lebar Road",
+      "landmark": "Tai Seng MRT Station",
+      "latitude": 1.33588,
+      "longitude": 103.88791,
+      "postalCode": "Singapore 534803"
+    },
+    {
+      "address": "15 Paya Lebar Road",
+      "landmark": "Paya Lebar MRT Station (Circle Line)",
+      "latitude": 1.31809,
+      "longitude": 103.89298,
+      "postalCode": "Singapore 409049"
+    },
+    {
+      "address": "Blk 153 Bukit Batok Street 11|#01-296A",
+      "landmark": "Bukit Batok Street 11 - Cheers",
+      "latitude": 1.3478,
+      "longitude": 103.7444,
+      "postalCode": "Singapore 650153"
+    },
+    {
+      "address": "90 Yishun Central|#01-07 Khoo Teck Phuat Hospital",
+      "landmark": "Yishun Central - Cheers",
+      "latitude": 1.4252,
+      "longitude": 103.83902,
+      "postalCode": "Singapore 768828"
+    },
+    {
+      "address": "61 Stamford Road|#01-03 Stamford Court",
+      "landmark": "Stamford Road - Cheers",
+      "latitude": 1.29443,
+      "longitude": 103.85024,
+      "postalCode": "Singapore 178892"
+    },
+    {
+      "address": "Blk 810 Hougang Central|#01-214",
+      "landmark": "Hougang Central - Cheers",
+      "latitude": 1.371475601,
+      "longitude": 103.8935959,
+      "postalCode": "Singapore 530810"
+    },
+    {
+      "address": "31 Tampines Avenue 4",
+      "landmark": "OCBC Tampines Centre Two",
+      "latitude": 1.351997537,
+      "longitude": 103.942278,
+      "postalCode": "Singapore 529680"
+    },
+    {
+      "address": "530 Lorong 6 Toa Payoh",
+      "landmark": "Toa Payoh Bus Interchange",
+      "latitude": 1.332192176,
+      "longitude": 103.8473064,
+      "postalCode": "Singapore 310530"
+    },
+    {
+      "address": "Orchid Country Club|1 Orchid Club Road",
+      "landmark": "Orchid Country Club - FairPrice",
+      "latitude": 1.412973213,
+      "longitude": 103.8447905,
+      "postalCode": "Singapore 769162"
+    },
+    {
+      "address": "2 Serangoon Road|Level 2 (next to information counter)",
+      "landmark": "The Verge",
+      "latitude": 1.305135855,
+      "longitude": 103.8512492,
+      "postalCode": "Singapore 218227"
+    },
+    {
+      "address": "Blk 631 Hougang Avenue 8|#01-10",
+      "landmark": "Hougang Avenue 8 - Cheers",
+      "latitude": 1.37056,
+      "longitude": 103.88141,
+      "postalCode": "Singapore 530631"
+    },
+    {
+      "address": "18/20 Kim Tian Road",
+      "landmark": "Kim Tian Road - FairPrice",
+      "latitude": 1.284821293,
+      "longitude": 103.8293834,
+      "postalCode": "Singapore 169252"
+    },
+    {
+      "address": "Blk 279 Bishan Street|24 #01-62/64",
+      "landmark": "Bishan Street 24 - FairPrice",
+      "latitude": 1.357274649,
+      "longitude": 103.8438034,
+      "postalCode": "Singapore 570279"
+    },
+    {
+      "address": "6 Raffles Boulevard|Level 2 (Near John Little, Opp Honey World)",
+      "landmark": "Marina Square",
+      "latitude": 1.291492279,
+      "longitude": 103.8576651,
+      "postalCode": "Singapore 039594"
+    },
+    {
+      "address": "8A Marina Boulevard (Opp Swissbake)",
+      "landmark": "Marina Bay Link Mall",
+      "latitude": 1.281248823,
+      "longitude": 103.8530087,
+      "postalCode": "Singapore 018984"
+    },
+    {
+      "address": "Blk 192 Toa Payoh Lorong|4 #01-670/672",
+      "landmark": "Toa Payoh Lorong 4 - FairPrice",
+      "latitude": 1.331553983,
+      "longitude": 103.8510239,
+      "postalCode": "Singapore 310192"
+    },
+    {
+      "address": "1 HarbourFront Walk|#01-160",
+      "landmark": "VivoCity  FRANK Store",
+      "latitude": 1.264368,
+      "longitude": 103.822419,
+      "postalCode": "Singapore 098585"
+    },
+    {
+      "address": "51 Changi Business Park Central 2|Level 1",
+      "landmark": "The Signature",
+      "latitude": 1.33471,
+      "longitude": 103.96517,
+      "postalCode": "Singapore 486066"
+    },
+    {
+      "address": "10 Marina Boulevard|#01-04|Marina Bay Financial Centre Tower 2",
+      "landmark": "Marina Bay Financial Centre Branch",
+      "latitude": 1.27948,
+      "longitude": 103.85407,
+      "postalCode": "Singapore 018983"
+    },
+    {
+      "address": "Blk 108 Depot Road|#01-01 FairPrice",
+      "landmark": "Depot Heights Shopping Centre",
+      "latitude": 1.28135,
+      "longitude": 103.81007,
+      "postalCode": "Singapore 100108"
+    },
+    {
+      "address": "461 Clementi Road |SIM Headquarters",
+      "landmark": "Singapore Institute of Management",
+      "latitude": 1.32884,
+      "longitude": 103.77636,
+      "postalCode": "Singapore 599491"
+    },
+    {
+      "address": "Blk 110 Lengkong Tiga|#01-233/235",
+      "landmark": "Lengkong Tiga - FairPrice",
+      "latitude": 1.32368,
+      "longitude": 103.91079,
+      "postalCode": "Singapore 410110"
+    },
+    {
+      "address": "2 Handy Road|Level 1 (next to cinema box office)",
+      "landmark": "The Cathay",
+      "latitude": 1.29915,
+      "longitude": 103.84777,
+      "postalCode": "Singapore 229233"
+    },
+    {
+      "address": "4 Seah Im Road",
+      "landmark": "Harbourfront Bus Interchange",
+      "latitude": 1.267115,
+      "longitude": 103.819308,
+      "postalCode": "Singapore 099115"
+    },
+    {
+      "address": "13 Sengkang Square",
+      "landmark": "Sengkang Bus Interchange",
+      "latitude": 1.392201,
+      "longitude": 103.896201,
+      "postalCode": "Singapore 545077"
+    },
+    {
+      "address": "81 Telok Blangah Road",
+      "landmark": "Harbourfront MRT Station",
+      "latitude": 1.265971,
+      "longitude": 103.820913,
+      "postalCode": "Singapore 098867"
+    },
+    {
+      "address": "Blk 78A Telok Blangah Street 32|#01-01/02",
+      "landmark": "Telok Blangah Street 32 - FairPrice",
+      "latitude": 1.2734,
+      "longitude": 103.80857,
+      "postalCode": "Singapore 101078"
+    },
+    {
+      "address": "PSA Sembawang",
+      "landmark": "7-4 Deptford Road",
+      "latitude": 1.461645,
+      "longitude": 103.831015,
+      "postalCode": "Singapore 759657"
+    },
+    {
+      "address": "1000 Toa Payoh North",
+      "landmark": "Singapore Press Holdings",
+      "latitude": 1.343363,
+      "longitude": 103.848288,
+      "postalCode": "Singapore 318994"
+    },
+    {
+      "address": "612-620 Geylang Road",
+      "landmark": "Geylang Road - Fairprice",
+      "latitude": 1.314156,
+      "longitude": 103.888661,
+      "postalCode": "Singapore 389551"
+    },
+    {
+      "address": "Blk 215 Ang Mo Kio Avenue 1|#01-877",
+      "landmark": "Ang Mo Kio Avenue 1 - Fairprice",
+      "latitude": 1.366617,
+      "longitude": 103.84155,
+      "postalCode": "Singapore 560215"
+    },
+    {
+      "address": "282 Bishan Street 22|#01-K2",
+      "landmark": "Bishan Street 22",
+      "latitude": 1.35794,
+      "longitude": 103.844876,
+      "postalCode": "Singapore 570282"
+    },
+    {
+      "address": "171 Paya Lebar Road",
+      "landmark": "MacPherson MRT Station",
+      "latitude": 1.326674,
+      "longitude": 103.88998,
+      "postalCode": "Singapore 409048"
+    },
+    {
+      "address": "5001 Beach Road|#01-12",
+      "landmark": "Golden Mile Complex",
+      "latitude": 1.302846,
+      "longitude": 103.865207,
+      "postalCode": "Singapore 199588"
+    },
+    {
+      "address": "70 Punggol Central",
+      "landmark": "Punggol MRT Station",
+      "latitude": 1.40505,
+      "longitude": 103.90236,
+      "postalCode": "Singapore 828868"
+    },
+    {
+      "address": "University Town|1 Create Way, #01-01",
+      "landmark": "NUS University Town - Cheers",
+      "latitude": 1.303999,
+      "longitude": 103.773977,
+      "postalCode": "Singapore 138602"
+    },
+    {
+      "address": "900 Serangoon Road",
+      "landmark": "Boon Keng MRT Station",
+      "latitude": 1.31958,
+      "longitude": 103.86194,
+      "postalCode": "Singapore 328260"
+    },
+    {
+      "address": "55 Upper Serangoon Road",
+      "landmark": "Potong Pasir MRT Station",
+      "latitude": 1.33138,
+      "longitude": 103.86928,
+      "postalCode": "Singapore 347694"
+    },
+    {
+      "address": "900 Upper Serangoon Road",
+      "landmark": "Kovan MRT Station",
+      "latitude": 1.36038,
+      "longitude": 103.88531,
+      "postalCode": "Singapore 534799"
+    },
+    {
+      "address": "80 Hougang Central Road",
+      "landmark": "Hougang MRT Station",
+      "latitude": 1.37093,
+      "longitude": 103.89244,
+      "postalCode": "Singapore 538758"
+    },
+    {
+      "address": "600 Upper Serangoon Road",
+      "landmark": "Serangoon MRT Station",
+      "latitude": 1.34922,
+      "longitude": 103.87344,
+      "postalCode": "Singapore 534801"
+    },
+    {
+      "address": "959 Jurong West Street 92|#01-162",
+      "landmark": "Jurong West St 92",
+      "latitude": 1.3416,
+      "longitude": 103.69065,
+      "postalCode": "Singapore 640959"
+    },
+    {
+      "address": "20 Serangoon Avenue 2",
+      "landmark": "Serangoon Bus Interchange",
+      "latitude": 1.35049,
+      "longitude": 103.87172,
+      "postalCode": "Singapore 556138"
+    },
+    {
+      "address": "57 Ang Mo Kio Avenue 8",
+      "landmark": "Ang Mo Kio Bus Interchange",
+      "latitude": 1.36977,
+      "longitude": 103.84875,
+      "postalCode": "Singapore 567751"
+    },
+    {
+      "address": "70A Punggol Place",
+      "landmark": "Punggol Bus Interchange",
+      "latitude": 1.40402,
+      "longitude": 103.90274,
+      "postalCode": "Singapore 828865"
+    },
+    {
+      "address": "7 Maxwell Road",
+      "landmark": "Amoy Street Food Centre",
+      "latitude": 1.27937,
+      "longitude": 103.8466,
+      "postalCode": "Singapore 069111"
+    },
+    {
+      "address": "6 Scotts Road|#B1-03 to 07 and #B1-10 FairPrice",
+      "landmark": "Scotts Square",
+      "latitude": 1.30587,
+      "longitude": 103.83298,
+      "postalCode": "Singapore 228209"
+    },
+    {
+      "address": "211 Old Airport Road",
+      "landmark": "Dakota MRT Station",
+      "latitude": 1.30829,
+      "longitude": 103.88825,
+      "postalCode": "Singapore 397971"
+    },
+    {
+      "address": "Blk 712 Ang Mo Kio Avenue 6|#01-4056",
+      "landmark": "Ang Mo Kio Avenue 6 - Fairprice",
+      "latitude": 1.37146,
+      "longitude": 103.84698,
+      "postalCode": "Singapore 560712"
+    },
+    {
+      "address": "70 Jellicoe Road",
+      "landmark": "V Hotel",
+      "latitude": 1.30759,
+      "longitude": 103.8627,
+      "postalCode": "Singapore 208767"
+    },
+    {
+      "address": "200 Holland Avenue",
+      "landmark": "Holland Village MRT Station",
+      "latitude": 1.31211,
+      "longitude": 103.79622,
+      "postalCode": "Singapore 278995"
+    },
+    {
+      "address": "5 Changi Business Park Central 1|#B1-K6",
+      "landmark": "Changi City Point",
+      "latitude": 1.3338,
+      "longitude": 103.9624,
+      "postalCode": "Singapore 486038"
+    },
+    {
+      "address": "460 Alexandra Road|PSA Building (Alexandra Retail Centre)",
+      "landmark": "Alexandra Road - FairPrice",
+      "latitude": 1.27409,
+      "longitude": 103.80083,
+      "postalCode": "Singapore 119963"
+    },
+    {
+      "address": "8 Marina View",
+      "landmark": "Asia Square Tower 1",
+      "latitude": 1.27895,
+      "longitude": 103.851,
+      "postalCode": "Singapore 018960"
+    },
+    {
+      "address": "5 Sengkang Square Level 2",
+      "landmark": "Sengkang MRT Station",
+      "latitude": 1.39119,
+      "longitude": 103.89536,
+      "postalCode": "Singapore 545062"
+    },
+    {
+      "address": "Bank of Singapore|63 Market Street",
+      "landmark": "Bank of Singapore",
+      "latitude": 1.284252,
+      "longitude": 103.850423,
+      "postalCode": "Singapore 048942"
+    },
+    {
+      "address": "60 Jurong Gateway Road",
+      "landmark": "Jurong East Temporary Bus Interchange",
+      "latitude": 1.33392,
+      "longitude": 103.74114,
+      "postalCode": "Singapore 608548"
+    },
+    {
+      "address": "Blk 612 Punggol Drive|#01-06",
+      "landmark": "Punggol Drive - FairPrice",
+      "latitude": 1.40461,
+      "longitude": 103.90867,
+      "postalCode": "Singapore 820612"
+    },
+    {
+      "address": "300 Eu Tong Sen Street",
+      "landmark": "Outram Park MRT Station (NEL)",
+      "latitude": 1.28111,
+      "longitude": 103.83928,
+      "postalCode": "Singapore 059816"
+    },
+    {
+      "address": "500 Clemenceau Ave North",
+      "landmark": "Newton Food Centre",
+      "latitude": 1.311931,
+      "longitude": 103.839566,
+      "postalCode": "Singapore 229495"
+    },
+    {
+      "address": "31 Commonwealth Crescent",
+      "landmark": "Commonwealth Crescent Market",
+      "latitude": 1.306825,
+      "longitude": 103.800357,
+      "postalCode": "Singapore 149644"
+    },
+    {
+      "address": "505 Beach Road",
+      "landmark": "Golden Mile Food Centre",
+      "latitude": 1.302787,
+      "longitude": 103.863888,
+      "postalCode": "Singapore 199583"
+    },
+    {
+      "address": "271 Onan Road",
+      "landmark": "Dunman Food Centre",
+      "latitude": 1.309346,
+      "longitude": 103.901793,
+      "postalCode": "Singapore 424768"
+    },
+    {
+      "address": "1 Seletar Road",
+      "landmark": "Greenwich V",
+      "latitude": 1.38754,
+      "longitude": 103.86912,
+      "postalCode": "Singapore 807011"
+    },
+    {
+      "address": "112 East Coast Road|#B1-13B",
+      "landmark": "112 Katong",
+      "latitude": 1.305425,
+      "longitude": 103.904947,
+      "postalCode": "Singapore 428802"
+    },
+    {
+      "address": "61 Jurong West Central 3",
+      "landmark": "Boon Lay Bus Interchange",
+      "latitude": 1.3394,
+      "longitude": 103.70537,
+      "postalCode": "Singapore 648330"
+    },
+    {
+      "address": "8 Changi Business Park Ave 1|#01-51 & #02-51",
+      "landmark": "Changi Business Park - FairPrice",
+      "latitude": 1.33513,
+      "longitude": 103.96334,
+      "postalCode": "Singapore 486018"
+    },
+    {
+      "address": "379 Lorong 1 Toa Payoh",
+      "landmark": "Braddell MRT Station",
+      "latitude": 1.34042,
+      "longitude": 103.84522,
+      "postalCode": "Singapore 319757"
+    },
+    {
+      "address": "61 Marina Coastal Drive",
+      "landmark": "Marina Bay Cruise Centre",
+      "latitude": 1.27078,
+      "longitude": 103.86245,
+      "postalCode": "Singapore 018947"
+    },
+    {
+      "address": "201 Victoria Street|#02-K2",
+      "landmark": "Bugis+",
+      "latitude": 1.29964,
+      "longitude": 103.85431,
+      "postalCode": "Singapore 188067"
+    },
+    {
+      "address": "30 Woodlands Avenue 2",
+      "landmark": "Woodlands MRT Station",
+      "latitude": 1.436998,
+      "longitude": 103.786504,
+      "postalCode": "Singapore 738343"
+    },
+    {
+      "address": "1 Woodlands Road|Level 1",
+      "landmark": "Junction 10",
+      "latitude": 1.38035,
+      "longitude": 103.76013,
+      "postalCode": "Singapore 677899"
+    },
+    {
+      "address": "441 Commonwealth Avenue West",
+      "landmark": "Clementi Bus Interchange",
+      "latitude": 1.31514,
+      "longitude": 103.76438,
+      "postalCode": "Singapore 120441"
+    },
+    {
+      "address": "18 Marina Gardens Drive",
+      "landmark": "Gardens by the Bay - The Canopy",
+      "latitude": 1.28112,
+      "longitude": 103.86589,
+      "postalCode": "Singapore 018953"
+    },
+    {
+      "address": "2 Jurong East Central 1|#B1-K16",
+      "landmark": "Jcube",
+      "latitude": 1.33318,
+      "longitude": 103.74011,
+      "postalCode": "Singapore 609731"
+    },
+    {
+      "address": "320 Orchard Road|Basement 1",
+      "landmark": "Tang Plaza",
+      "latitude": 1.30513,
+      "longitude": 103.832999,
+      "postalCode": "Singapore 238865"
+    },
+    {
+      "address": "1 Vista Exchange Green|#01-K5b",
+      "landmark": "The Star Vista",
+      "latitude": 1.306842,
+      "longitude": 103.78844,
+      "postalCode": "Singapore 138617"
+    },
+    {
+      "address": "1 Kadayanallur Street",
+      "landmark": "Maxwell Hawker Centre",
+      "latitude": 1.279787,
+      "longitude": 103.844828,
+      "postalCode": "Singapore 069184"
+    },
+    {
+      "address": "5A Woodlands Centre Road|#01-K2",
+      "landmark": "Woodlands Centre Road",
+      "latitude": 1.439883,
+      "longitude": 103.769855,
+      "postalCode": "Singapore 731005"
+    },
+    {
+      "address": "Yusof Ishak House |31 Lower Kent Ridge Road",
+      "landmark": "NUS",
+      "latitude": 1.29537,
+      "longitude": 103.774811,
+      "postalCode": "Singapore 119078"
+    },
+    {
+      "address": "Science Canteen|3 Science Drive",
+      "landmark": "NUS",
+      "latitude": 1.296467,
+      "longitude": 103.778885,
+      "postalCode": "Singapore 117543"
+    },
+    {
+      "address": "123 Bukit Merah Lane 1|#01-98/100",
+      "landmark": "Alexandra Branch",
+      "latitude": 1.2868315,
+      "longitude": 103.804031,
+      "postalCode": "Singapore 150123"
+    },
+    {
+      "address": "133 New Bridge Road|Chinatown Point Basement 1",
+      "landmark": "Chinatown Point - FairPrice",
+      "latitude": 1.28557,
+      "longitude": 103.84626,
+      "postalCode": "Singapore 59413"
+    },
+    {
+      "address": "Blk 138 Tampines Street 11|#01-136",
+      "landmark": "Tampines Street 11 - FairPrice",
+      "latitude": 1.347553,
+      "longitude": 103.957183,
+      "postalCode": "Singapore 520138"
+    },
+    {
+      "address": "Blk 29B Chai Chee Avenue|#01-62",
+      "landmark": "Chai Chee Avenue - FairPrice",
+      "latitude": 1.32433,
+      "longitude": 103.923825,
+      "postalCode": "Singapore 462029"
+    },
+    {
+      "address": "Blk 5 Upper Boon Keng Road|#01-05",
+      "landmark": "Upper Boon Keng Road - FairPrice",
+      "latitude": 1.312407,
+      "longitude": 103.872033,
+      "postalCode": "Singapore 380005"
+    },
+    {
+      "address": "Blk 77 Circuit Road|#01-464/466",
+      "landmark": "Circuit Road - FairPrice",
+      "latitude": 1.32849,
+      "longitude": 103.885399,
+      "postalCode": "Singapore 330077"
+    },
+    {
+      "address": "100 Tras Street|#B1-01 Amara Hotel",
+      "landmark": "Amara Hotel - FairPrice",
+      "latitude": 1.275636,
+      "longitude": 103.844089,
+      "postalCode": "Singapore 079027"
+    },
+    {
+      "address": "Blk 502 West Coast Drive|#01-41",
+      "landmark": "West Coast Drive - FairPrice",
+      "latitude": 1.311803,
+      "longitude": 103.758606,
+      "postalCode": "Singapore 120502"
+    },
+    {
+      "address": "University Town|2 College Ave West|EduSport Building",
+      "landmark": "NUS",
+      "latitude": 1.30584,
+      "longitude": 103.77196,
+      "postalCode": "Singapore 138607"
+    },
+    {
+      "address": "5 Tanjong Pagar Road|#01-01 FairPrice",
+      "landmark": "Tangjong Pagar Plaza ",
+      "latitude": 1.276,
+      "longitude": 103.8428,
+      "postalCode": "Singapore 081005"
+    },
+    {
+      "address": "Block 846 Yishun Ring Road|#01-3655",
+      "landmark": "Yishun Ring Road",
+      "latitude": 1.41672,
+      "longitude": 103.83451,
+      "postalCode": "Singapore 760846"
+    },
+    {
+      "address": "260 Tanjong Pagar Road",
+      "landmark": "Tanjong Pagar Road",
+      "latitude": 1.273682,
+      "longitude": 103.843079,
+      "postalCode": "Singapore 088542"
+    },
+    {
+      "address": "1 Pickering Street #01-00",
+      "landmark": "Great Eastern Centre ",
+      "latitude": 1.285078057,
+      "longitude": 103.8477087,
+      "postalCode": "Singapore 048659"
+    },
+    {
+      "address": "500 Dover Road|Singapore Polytechnic, Food Court 5 (FC512)",
+      "landmark": "Singapore Polytechnic FRANK Store",
+      "latitude": 1.309469,
+      "longitude": 103.779817,
+      "postalCode": "Singapore 139651"
+    },
+    {
+      "address": "491 River Valley Road|#01-14 Valley Point",
+      "landmark": "River Valley Road - FairPrice",
+      "latitude": 1.29304,
+      "longitude": 103.8269,
+      "postalCode": "Singapore 248371"
+    },
+    {
+      "address": "20 Ah Hood Road|#02-01 Zhongshan Park",
+      "landmark": "Zhongshan Park - FairPrice",
+      "latitude": 1.32793,
+      "longitude": 103.84738,
+      "postalCode": "Singapore 329984"
+    },
+    {
+      "address": "Blk 447A Jalan Kayu|#01-02",
+      "landmark": "Jalan Kayu - FairPrice",
+      "latitude": 1.39222,
+      "longitude": 103.87261,
+      "postalCode": "Singapore 791447"
+    },
+    {
+      "address": "Blk 570B Woodlands Ave 1|#01-06",
+      "landmark": "Woodlands Ave 1 - FairPrice|",
+      "latitude": 1.43092,
+      "longitude": 103.79084,
+      "postalCode": "Singapore 732570"
+    },
+    {
+      "address": "50 Jurong Gateway Road",
+      "landmark": "JEM",
+      "latitude": 1.333066,
+      "longitude": 103.743657,
+      "postalCode": "Singapore 608549"
+    },
+    {
+      "address": "10 Sengkang Central",
+      "landmark": "Buangkok MRT Station",
+      "latitude": 1.382728,
+      "longitude": 103.892789,
+      "postalCode": "Singapore 545061"
+    },
+    {
+      "address": "10 Eu Tong Sen Street ",
+      "landmark": "Clarke Quay MRT Station",
+      "latitude": 1.288751,
+      "longitude": 103.846837,
+      "postalCode": "Singapore 059815"
+    },
+    {
+      "address": "Blk 808 French Road|#01-01",
+      "landmark": "French Road - FairPrice ",
+      "latitude": 1.30871,
+      "longitude": 103.86182,
+      "postalCode": "Singapore 200808"
+    },
+    {
+      "address": "200 Changi Road",
+      "landmark": "Changi Road  - Great Eastern ",
+      "latitude": 1.317231,
+      "longitude": 103.903486,
+      "postalCode": "Singapore 419734"
+    },
+    {
+      "address": "30 East Coast Road|#01-06/07/08/09 Katong V",
+      "landmark": "Katong V - FairPrice",
+      "latitude": 1.30377,
+      "longitude": 103.90291,
+      "postalCode": "Singapore 428751"
+    },
+    {
+      "address": "1 Cove Avenue|#02-K1",
+      "landmark": "Sentosa Cove",
+      "latitude": 1.24693,
+      "longitude": 103.84001,
+      "postalCode": "Singapore 098537"
+    },
+    {
+      "address": "260 Orchard Road|#B1-09 and Level 5",
+      "landmark": "Robinsons Orchard",
+      "latitude": 1.302959,
+      "longitude": 103.837188,
+      "postalCode": "Singapore 238855"
+    },
+    {
+      "address": "2 Simei Street 3",
+      "landmark": "Changi General Hospital",
+      "latitude": 1.340446,
+      "longitude": 103.949053,
+      "postalCode": "Singapore 529889"
+    },
+    {
+      "address": "1 Lower Kent Ridge Road|#02-16 One@Kentridge",
+      "landmark": "NUH - FairPrice",
+      "latitude": 1.29644,
+      "longitude": 103.78341,
+      "postalCode": "Singapore 119082"
+    },
+    {
+      "address": "3 Gateway Drive|Basement 1",
+      "landmark": "Westgate",
+      "latitude": 1.332109,
+      "longitude": 103.740998,
+      "postalCode": "Singapore 608532"
+    },
+    {
+      "address": "311 New Upper Changi Road|Basement 2",
+      "landmark": "Bedok Mall - FairPrice",
+      "latitude": 1.32429,
+      "longitude": 103.92991,
+      "postalCode": "Singapore 467360"
+    },
+    {
+      "address": "70 Woodlands Avenue 7",
+      "landmark": "Admiralty MRT Station",
+      "latitude": 1.44068,
+      "longitude": 103.80096,
+      "postalCode": "Singapore 738344"
+    },
+    {
+      "address": "1 Stadium Place",
+      "landmark": "Kallang Wave",
+      "latitude": 1.303383,
+      "longitude": 103.872927,
+      "postalCode": "Singapore 397628"
+    },
+    {
+      "address": "6 Potong Pasir Ave 2 #01-01 |Potong Pasir Community Club",
+      "landmark": "Potong Pasir - FairPrice",
+      "latitude": 1.3327,
+      "longitude": 103.86727,
+      "postalCode": "Singapore 358361"
+    },
+    {
+      "address": "3551 Ang Mo Kio Avenue 3",
+      "landmark": "Ang Mo Kio Avenue 3 - Esso Station",
+      "latitude": 1.37076,
+      "longitude": 103.86416,
+      "postalCode": "Singapore 569927"
+    },
+    {
+      "address": "1 Scotts Road |Shaw Centre",
+      "landmark": "Shaw Centre",
+      "latitude": 1.30603,
+      "longitude": 103.83211,
+      "postalCode": "Singapore 228208"
+    },
+    {
+      "address": "399 Toa Payoh Lorong 2",
+      "landmark": "Toa Payoh Lorong 2  - Esso Station",
+      "latitude": 1.33628,
+      "longitude": 103.84627,
+      "postalCode": "Singapore 319640"
+    },
+    {
+      "address": "2 Bukit Batok West Avenue 7|#01-10 Home Team NS Bukit Batok Clubhouse",
+      "landmark": "Bukit Batok West Ave 7 - FairPrice",
+      "latitude": 1.36578,
+      "longitude": 103.7485,
+      "postalCode": "Singapore 659003"
+    },
+    {
+      "address": "3 Temasek Boulevard|#02-411/412",
+      "landmark": "Suntec City Branch",
+      "latitude": 1.29575,
+      "longitude": 103.85888,
+      "postalCode": "Singapore 038983"
+    },
+    {
+      "address": "553 Upper Thomson Road",
+      "landmark": "Upper Thomson Road - Esso Station",
+      "latitude": 1.370359,
+      "longitude": 103.82838,
+      "postalCode": "Singapore 574416"
+    },
+    {
+      "address": "19 Pioneer Road",
+      "landmark": "Pioneer Road - Esso Station",
+      "latitude": 1.31316,
+      "longitude": 103.68757,
+      "postalCode": "Singapore 628499"
+    },
+    {
+      "address": "384 Lorong Chuan",
+      "landmark": "Lorong Chuan - Esso Station",
+      "latitude": 1.36248,
+      "longitude": 103.86785,
+      "postalCode": "Singapore 556810"
+    },
+    {
+      "address": "3 Stadium Walk",
+      "landmark": "Stadium Station",
+      "latitude": 1.30281,
+      "longitude": 103.87533,
+      "postalCode": "Singapore 397693"
+    },
+    {
+      "address": "33 Sengkang West Ave|Basement 2",
+      "landmark": "Seletar Mall - FairPrice",
+      "latitude": 1.39122,
+      "longitude": 103.87709,
+      "postalCode": "Singapore 797653"
+    },
+    {
+      "address": "3 Simei Street 6|Level 5",
+      "landmark": "Eastpoint Mall - FairPrice",
+      "latitude": 1.34281,
+      "longitude": 103.95297,
+      "postalCode": "Singapore 528833"
+    },
+    {
+      "address": "12 Bedok North Drive",
+      "landmark": "Bedok Bus Interchange ",
+      "latitude": 1.3248137,
+      "longitude": 103.92986767,
+      "postalCode": "Singapore 465492"
+    },
+    {
+      "address": "30 Sembawang Drive|#B1-01/02/03 Sun Plaza ",
+      "landmark": "Sun Plaza - FairPrice",
+      "latitude": 1.44842,
+      "longitude": 103.81917,
+      "postalCode": "Singapore 757713"
+    },
+    {
+      "address": "1 Joo Koon Circle|Level 2",
+      "landmark": "Benoi - FairPrice",
+      "latitude": 1.3243,
+      "longitude": 103.67642,
+      "postalCode": "Singapore 628117"
+    },
+    {
+      "address": "21 Marina Station Road",
+      "landmark": "Marina Bay MRT Station",
+      "latitude": 1.27627,
+      "longitude": 103.85463,
+      "postalCode": "Singapore 018990"
+    },
+    {
+      "address": "590 East Coast Road",
+      "landmark": "Frankel - Esso Station",
+      "latitude": 1.31112,
+      "longitude": 103.92037,
+      "postalCode": "Singapore 458995"
+    },
+    {
+      "address": "60 Paya Lebar Road|#01-45/46/52/53",
+      "landmark": "Paya Lebar Square",
+      "latitude": 1.319072,
+      "longitude": 103.892618,
+      "postalCode": "Singapore 409051"
+    },
+    {
+      "address": "10 Jurong East St 12",
+      "landmark": "Jurong East MRT Station",
+      "latitude": 1.33351,
+      "longitude": 103.74202,
+      "postalCode": "Singapore 609690"
+    },
+    {
+      "address": "30 Sembawang Drive|#02-05 Sun Plaza",
+      "landmark": "Sun Plaza Branch",
+      "latitude": 1.44842,
+      "longitude": 103.81917,
+      "postalCode": "Singapore 757713"
+    },
+    {
+      "address": "11 Jalan Tan Tock Seng",
+      "landmark": "Tan Tock Seng Hospital",
+      "latitude": 1.3217,
+      "longitude": 103.84597,
+      "postalCode": "Singapore 308433"
+    },
+    {
+      "address": "216 Lavender Street",
+      "landmark": "Lavender Street  - Esso Station",
+      "latitude": 1.313374,
+      "longitude": 103.861101,
+      "postalCode": "Singapore 338771"
+    },
+    {
+      "address": "Blk 279 Sengkang East Ave|#01-06",
+      "landmark": "Sengkang East Ave - FairPrice",
+      "latitude": 1.38633426,
+      "longitude": 103.89207763,
+      "postalCode": "Singapore 540279"
+    },
+    {
+      "address": "20A Yishun Central 1",
+      "landmark": "Yishun Temp Bus Interchange",
+      "latitude": 1.4292653,
+      "longitude": 103.83798838,
+      "postalCode": "Singapore 768830"
+    },
+    {
+      "address": "1 Jurong East Street 21|Tower B (Wards) Level 2",
+      "landmark": "Ng Teng Fong Hospital",
+      "latitude": 1.33335058,
+      "longitude": 103.74586523,
+      "postalCode": "Singapore 609606"
+    },
+    {
+      "address": "1 Venture Avenue|#01-K19 ",
+      "landmark": "Big Box",
+      "latitude": 1.33183286,
+      "longitude": 103.74473333,
+      "postalCode": "Singapore 608521"
+    },
+    {
+      "address": "176 Orchard Road|Level 1 (Opp POSB Bank) ",
+      "landmark": "The Centrepoint",
+      "latitude": 1.3019817,
+      "longitude": 103.8398259,
+      "postalCode": "Singapore 238843"
+    },
+    {
+      "address": "820 Thomson Road",
+      "landmark": "Mount Alvernia Hospital",
+      "latitude": 1.341499,
+      "longitude": 103.837625,
+      "postalCode": "Singapore 574623"
+    },
+    {
+      "address": "301 Mountbatten Road",
+      "landmark": "Mountbatten MRT Station",
+      "latitude": 1.30684379,
+      "longitude": 103.8824766,
+      "postalCode": "Singapore 398006"
+    },
+    {
+      "address": "9 Ayer Rajah Avenue",
+      "landmark": "One-North MRT Station",
+      "latitude": 1.299338,
+      "longitude": 103.78713541,
+      "postalCode": "Singapore 138647"
+    },
+    {
+      "address": "Blk 510 Bishan Street 13|#01-01/#02-01",
+      "landmark": "Bishan Street 13 -FairPrice",
+      "latitude": 1.3488965,
+      "longitude": 103.849763,
+      "postalCode": "Singapore 570510"
+    },
+    {
+      "address": "20 Republic Avenue",
+      "landmark": "Nicoll Highway MRT  Station",
+      "latitude": 1.299702,
+      "longitude": 103.86359,
+      "postalCode": "Singapore 038970"
+    },
+    {
+      "address": "100 Cluny Park Road",
+      "landmark": "Botanic Gardens MRT Station",
+      "latitude": 1.322535,
+      "longitude": 103.815374,
+      "postalCode": "Singapore 257494"
+    },
+    {
+      "address": "150 Serangoon Avenue 3",
+      "landmark": "Lorong Chuan MRT Station",
+      "latitude": 1.352023,
+      "longitude": 103.863545,
+      "postalCode": "Singapore 554533"
+    },
+    {
+      "address": "Blk 166 Bukit Batok West Ave 8|#01-256/258",
+      "landmark": "Bukit Batok West Ave 8 - FairPrice",
+      "latitude": 1.347091,
+      "longitude": 103.74269,
+      "postalCode": "Singapore 650166"
+    },
+    {
+      "address": "463 Telok Blangah Road",
+      "landmark": "Telok Blangah MRT Station",
+      "latitude": 1.270779,
+      "longitude": 103.80987,
+      "postalCode": "Singapore 109028"
+    },
+    {
+      "address": "150 North Buona Vista Road ",
+      "landmark": "Buona Vista MRT Station (Circle Line)",
+      "latitude": 1.306655,
+      "longitude": 103.790731,
+      "postalCode": "Singapore 139350"
+    },
+    {
+      "address": "Blk 198 Punggol Field |#01-K4 |",
+      "landmark": "Punggol Field",
+      "latitude": 1.39946,
+      "longitude": 103.90634,
+      "postalCode": "Singapore 820198"
+    },
+    {
+      "address": "20 Lengkok Bahru |#01-13 Academy",
+      "landmark": "Lengkok Bahru - FairPrice",
+      "latitude": 1.287258,
+      "longitude": 103.814813,
+      "postalCode": "Singapore 159053"
+    },
+    {
+      "address": "301 South Buona Vista Road",
+      "landmark": "Kent Ridge MRT Station",
+      "latitude": 1.293067,
+      "longitude": 103.78459,
+      "postalCode": "Singapore 118177"
+    },
+    {
+      "address": "229 Mountbatten Road",
+      "landmark": "Mountbatten Square",
+      "latitude": 1.307532,
+      "longitude": 103.881287,
+      "postalCode": "Singapore 398007"
+    },
+    {
+      "address": "Blk 476 Upper Serangoon View|#02-18",
+      "landmark": "Hougang Capeview - FairPrice",
+      "latitude": 1.3773579,
+      "longitude": 103.9037449,
+      "postalCode": "Singapore 530476"
+    },
+    {
+      "address": "10 Jalan Besar",
+      "landmark": "Sim Lim Tower",
+      "latitude": 1.304039,
+      "longitude": 103.8546719,
+      "postalCode": "Singapore 208787"
+    },
+    {
+      "address": "13 Stamford Road|Basement 2",
+      "landmark": "Capitol Piazza",
+      "latitude": 1.2937804,
+      "longitude": 103.8517198,
+      "postalCode": "Singapore 178905"
+    },
+    {
+      "address": "Blk 308C Punggol Walk|#01-352",
+      "landmark": "Punggol Waterway Terrace - FairPrice",
+      "latitude": 1.4081733,
+      "longitude": 103.8992249,
+      "postalCode": "Singapore 823308"
+    },
+    {
+      "address": "55 Benoi Road",
+      "landmark": "Joo Koon Bus Interchange",
+      "latitude": 1.326113,
+      "longitude": 103.678479,
+      "postalCode": "Singapore 629907"
+    },
+    {
+      "address": "2 Sengkang Square",
+      "landmark": "Sengkang Community Club",
+      "latitude": 1.392501,
+      "longitude": 103.894364,
+      "postalCode": "Singapore 545025"
+    },
+    {
+      "address": "8 Somapah Road Building 2",
+      "landmark": "Singapore University of Technology and Design",
+      "latitude": 1.3401028,
+      "longitude": 103.9629553,
+      "postalCode": "Singapore 487372"
+    },
+    {
+      "address": "950 Upper Bukit Timah Road ",
+      "landmark": "Bukit Panjang MRT Station",
+      "latitude": 1.37773536,
+      "longitude": 103.76118064,
+      "postalCode": "Singapore 678213"
+    },
+    {
+      "address": "101 Upper Bukit Timah Road ",
+      "landmark": "Beauty World MRT Station",
+      "latitude": 1.34060385,
+      "longitude": 103.77574203,
+      "postalCode": "Singapore 588216"
+    },
+    {
+      "address": "11 Rochor Canal Road ",
+      "landmark": "Rochor MRT Station",
+      "latitude": 1.303099,
+      "longitude": 103.853026,
+      "postalCode": "Singapore 188505"
+    },
+    {
+      "address": "2 Bukit Panjang Ring Road|#02-06 ",
+      "landmark": "Bukit Panjang Ring Road - FairPrice",
+      "latitude": 1.3782756,
+      "longitude": 103.7724139,
+      "postalCode": "Singapore 679947"
+    },
+    {
+      "address": "Blk 1 Jalan Bukit Merah|#01-4500",
+      "landmark": "Jalan Bukit Merah - FairPrice",
+      "latitude": 1.2865924,
+      "longitude": 103.8082447,
+      "postalCode": "Singapore 150001"
+    },
+    {
+      "address": "83 Punggol Central|#B2-32 Waterway Point",
+      "landmark": "Waterway Point - FairPrice",
+      "latitude": 1.4052251,
+      "longitude": 103.90175883,
+      "postalCode": "Singapore 828761"
+    },
+    {
+      "address": "83 Punggol Central |#01-13 Waterway Point",
+      "landmark": "Waterway Point Branch",
+      "latitude": 1.406667,
+      "longitude": 103.901944,
+      "postalCode": "Singapore 828761"
+    },
+    {
+      "address": "270 Pasir Panjang Road",
+      "landmark": "Haw Par Villa MRT Station",
+      "latitude": 1.282715,
+      "longitude": 103.7819629,
+      "postalCode": "Singapore 117396"
+    },
+    {
+      "address": "83 Telok Blangah Road",
+      "landmark": "Harbourfront MRT Station (Circle Line)",
+      "latitude": 1.26591675,
+      "longitude": 103.82070125,
+      "postalCode": "Singapore 098886"
+    },
+    {
+      "address": "60 Marymount Road",
+      "landmark": "Marymount MRT Station",
+      "latitude": 1.34906366,
+      "longitude": 103.83953436,
+      "postalCode": "Singapore 573993"
+    },
+    {
+      "address": "Blk 103 Yishun Ring Road|#01-67",
+      "landmark": "Yishun Ring Road",
+      "latitude": 1.4315468,
+      "longitude": 103.8293342,
+      "postalCode": "Singapore 760103"
+    }
+  ]
